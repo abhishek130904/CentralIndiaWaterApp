@@ -1,5 +1,6 @@
 import React from 'react';
-import { View, Text, StyleSheet, SafeAreaView, TouchableOpacity, ScrollView } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, ScrollView } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient'; // Assuming you still want a gradient background
 
@@ -7,13 +8,12 @@ const ExploreWaterScreen = ({ navigation }) => {
   // Sample data for states - you'd likely fetch this from an API
   const states = [
     { id: '1', name: 'Madhya Pradesh', districts: 55, mapImage: 'https://placehold.co/150x150/ff4d4d/ffffff?text=MP+Map' },
-    { id: '2', name: 'Chhattisgarh', districts: 33, mapImage: 'https://placehold.co/150x150/e06666/ffffff?text=CG+Map' }
+    { id: '2', name: 'Chhattisgarh', districts: 33, mapImage: 'https://placehold.co/150x150/e06666/ffffff?text=CG+Map' },
+
   ];
 
   const handleViewDistricts = (stateName) => {
-    console.log(`Navigating to districts for ${stateName}`);
-    // Here you would navigate to a new screen, e.g., 'DistrictListScreen'
-    // navigation.navigate('DistrictList', { state: stateName });
+    navigation.navigate('StateScreen', { stateName });
   };
 
   return (

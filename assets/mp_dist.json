@@ -1,0 +1,1869 @@
+{
+  "Madhya Pradesh": [
+    {
+      "id": "mp1",
+      "name": "Agar Malwa",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 17.5968,
+          "permanent": 2.8368
+        },
+        {
+          "year": "2001",
+          "seasonal": 10.6308,
+          "permanent": 2.331
+        },
+        {
+          "year": "2011",
+          "seasonal": 36.2061,
+          "permanent": 2.5731
+        },
+        {
+          "year": "2021",
+          "seasonal": 61.0569,
+          "permanent": 10.854
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 181.94,
+        "Shrubland (km²)": 5.2,
+        "Grassland (km²)": 512.94,
+        "Cropland (km²)": 1936.13,
+        "Built-up Area (km²)": 36.71,
+        "Bare/Sparse Vegetation (km²)": 20.91,
+        "Permanent Water Bodies (km²)": 39.44,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp2",
+      "name": "Alirajpur",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 10.1574,
+          "permanent": 4.968
+        },
+        {
+          "year": "2001",
+          "seasonal": 8.8263,
+          "permanent": 9.6345
+        },
+        {
+          "year": "2011",
+          "seasonal": 17.8857,
+          "permanent": 23.9958
+        },
+        {
+          "year": "2021",
+          "seasonal": 31.9167,
+          "permanent": 25.9074
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 634.91,
+        "Shrubland (km²)": 36.34,
+        "Grassland (km²)": 1175.06,
+        "Cropland (km²)": 1431.65,
+        "Built-up Area (km²)": 11.34,
+        "Bare/Sparse Vegetation (km²)": 6.61,
+        "Permanent Water Bodies (km²)": 35.7,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp3",
+      "name": "Anuppur",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 16.2396,
+          "permanent": 4.4604
+        },
+        {
+          "year": "2001",
+          "seasonal": 20.3067,
+          "permanent": 5.1759
+        },
+        {
+          "year": "2011",
+          "seasonal": 30.6891,
+          "permanent": 6.8922
+        },
+        {
+          "year": "2021",
+          "seasonal": 28.53,
+          "permanent": 11.457
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 958.47,
+        "Shrubland (km²)": 12.07,
+        "Grassland (km²)": 1074.95,
+        "Cropland (km²)": 1659.35,
+        "Built-up Area (km²)": 35.95,
+        "Bare/Sparse Vegetation (km²)": 20.27,
+        "Permanent Water Bodies (km²)": 28.99,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp4",
+      "name": "Ashoknagar",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 51.5277,
+          "permanent": 10.6434
+        },
+        {
+          "year": "2001",
+          "seasonal": 39.5253,
+          "permanent": 9.3879
+        },
+        {
+          "year": "2011",
+          "seasonal": 97.5915,
+          "permanent": 10.9854
+        },
+        {
+          "year": "2021",
+          "seasonal": 142.1622,
+          "permanent": 17.0604
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 195.62,
+        "Shrubland (km²)": 269.75,
+        "Grassland (km²)": 672.1,
+        "Cropland (km²)": 3459.84,
+        "Built-up Area (km²)": 38.53,
+        "Bare/Sparse Vegetation (km²)": 12.94,
+        "Permanent Water Bodies (km²)": 96.71,
+        "Herbaceous Wetland (km²)": 0.01
+      }
+    },
+    {
+      "id": "mp5",
+      "name": "Balaghat",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 114.7302,
+          "permanent": 19.3419
+        },
+        {
+          "year": "2001",
+          "seasonal": 118.8108,
+          "permanent": 20.3751
+        },
+        {
+          "year": "2011",
+          "seasonal": 240.2442,
+          "permanent": 28.1889
+        },
+        {
+          "year": "2021",
+          "seasonal": 260.6751,
+          "permanent": 30.7341
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 5124.27,
+        "Shrubland (km²)": 47.41,
+        "Grassland (km²)": 1006.38,
+        "Cropland (km²)": 2885.21,
+        "Built-up Area (km²)": 85.37,
+        "Bare/Sparse Vegetation (km²)": 35.45,
+        "Permanent Water Bodies (km²)": 60.12,
+        "Herbaceous Wetland (km²)": 0.33
+      }
+    },
+    {
+      "id": "mp6",
+      "name": "Barwani",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 14.1201,
+          "permanent": 15.0237
+        },
+        {
+          "year": "2001",
+          "seasonal": 12.3858,
+          "permanent": 15.228
+        },
+        {
+          "year": "2011",
+          "seasonal": 27.2421,
+          "permanent": 42.1479
+        },
+        {
+          "year": "2021",
+          "seasonal": 39.3093,
+          "permanent": 42.8535
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 328.99,
+        "Shrubland (km²)": 191.44,
+        "Grassland (km²)": 2456.18,
+        "Cropland (km²)": 2298.08,
+        "Built-up Area (km²)": 46.72,
+        "Bare/Sparse Vegetation (km²)": 57.44,
+        "Permanent Water Bodies (km²)": 64.72,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp7",
+      "name": "Betul",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 52.8876,
+          "permanent": 15.2136
+        },
+        {
+          "year": "2001",
+          "seasonal": 50.778,
+          "permanent": 15.2757
+        },
+        {
+          "year": "2011",
+          "seasonal": 104.9913,
+          "permanent": 23.3613
+        },
+        {
+          "year": "2021",
+          "seasonal": 139.7547,
+          "permanent": 32.1678
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 2903.67,
+        "Shrubland (km²)": 67.68,
+        "Grassland (km²)": 2552.88,
+        "Cropland (km²)": 4386.1,
+        "Built-up Area (km²)": 71.18,
+        "Bare/Sparse Vegetation (km²)": 26.98,
+        "Permanent Water Bodies (km²)": 50.37,
+        "Herbaceous Wetland (km²)": 0.08
+      }
+    },
+    {
+      "id": "mp8",
+      "name": "Bhind",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 46.2159,
+          "permanent": 4.5441
+        },
+        {
+          "year": "2001",
+          "seasonal": 41.0562,
+          "permanent": 4.6539
+        },
+        {
+          "year": "2011",
+          "seasonal": 105.7761,
+          "permanent": 7.0254
+        },
+        {
+          "year": "2021",
+          "seasonal": 122.9904,
+          "permanent": 8.019
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 257.54,
+        "Shrubland (km²)": 7.11,
+        "Grassland (km²)": 588.42,
+        "Cropland (km²)": 3466.17,
+        "Built-up Area (km²)": 91.59,
+        "Bare/Sparse Vegetation (km²)": 25.36,
+        "Permanent Water Bodies (km²)": 29.38,
+        "Herbaceous Wetland (km²)": 0.31
+      }
+    },
+    {
+      "id": "mp9",
+      "name": "Bhopal",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 44.8875,
+          "permanent": 15.1524
+        },
+        {
+          "year": "2001",
+          "seasonal": 38.0061,
+          "permanent": 16.4862
+        },
+        {
+          "year": "2011",
+          "seasonal": 87.1263,
+          "permanent": 25.1019
+        },
+        {
+          "year": "2021",
+          "seasonal": 107.0307,
+          "permanent": 26.6589
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 249.7,
+        "Shrubland (km²)": 60.62,
+        "Grassland (km²)": 376.25,
+        "Cropland (km²)": 1853.76,
+        "Built-up Area (km²)": 159.15,
+        "Bare/Sparse Vegetation (km²)": 8.46,
+        "Permanent Water Bodies (km²)": 58.44,
+        "Herbaceous Wetland (km²)": 0.02
+      }
+    },
+    {
+      "id": "mp10",
+      "name": "Burhanpur",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 9.495,
+          "permanent": 3.447
+        },
+        {
+          "year": "2001",
+          "seasonal": 8.9469,
+          "permanent": 3.7845
+        },
+        {
+          "year": "2011",
+          "seasonal": 12.8736,
+          "permanent": 7.3755
+        },
+        {
+          "year": "2021",
+          "seasonal": 23.8329,
+          "permanent": 10.3725
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 693.72,
+        "Shrubland (km²)": 39.36,
+        "Grassland (km²)": 1056.19,
+        "Cropland (km²)": 1374.32,
+        "Built-up Area (km²)": 33.66,
+        "Bare/Sparse Vegetation (km²)": 8.62,
+        "Permanent Water Bodies (km²)": 25.23,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp11",
+      "name": "Chhatarpur",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 82.6848,
+          "permanent": 13.9185
+        },
+        {
+          "year": "2001",
+          "seasonal": 77.0148,
+          "permanent": 12.3534
+        },
+        {
+          "year": "2011",
+          "seasonal": 149.2317,
+          "permanent": 22.4649
+        },
+        {
+          "year": "2021",
+          "seasonal": 185.0004,
+          "permanent": 25.1964
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 991.05,
+        "Shrubland (km²)": 273.84,
+        "Grassland (km²)": 1646.33,
+        "Cropland (km²)": 5582.83,
+        "Built-up Area (km²)": 105.3,
+        "Bare/Sparse Vegetation (km²)": 22.64,
+        "Permanent Water Bodies (km²)": 79.87,
+        "Herbaceous Wetland (km²)": 0.52
+      }
+    },
+    {
+      "id": "mp12",
+      "name": "Chhindwara",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 87.8967,
+          "permanent": 22.95
+        },
+        {
+          "year": "2001",
+          "seasonal": 88.3584,
+          "permanent": 21.0546
+        },
+        {
+          "year": "2011",
+          "seasonal": 218.421,
+          "permanent": 31.9599
+        },
+        {
+          "year": "2021",
+          "seasonal": 273.753,
+          "permanent": 45.1863
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 2434.7,
+        "Shrubland (km²)": 52.02,
+        "Grassland (km²)": 3042.02,
+        "Cropland (km²)": 4099.39,
+        "Built-up Area (km²)": 75.44,
+        "Bare/Sparse Vegetation (km²)": 27.36,
+        "Permanent Water Bodies (km²)": 102.02,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp13",
+      "name": "Damoh",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 74.5704,
+          "permanent": 13.0653
+        },
+        {
+          "year": "2001",
+          "seasonal": 65.655,
+          "permanent": 11.9754
+        },
+        {
+          "year": "2011",
+          "seasonal": 145.2492,
+          "permanent": 16.8921
+        },
+        {
+          "year": "2021",
+          "seasonal": 174.9654,
+          "permanent": 19.3365
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 386.66,
+        "Shrubland (km²)": 337.64,
+        "Grassland (km²)": 2692.35,
+        "Cropland (km²)": 3773.79,
+        "Built-up Area (km²)": 54.02,
+        "Bare/Sparse Vegetation (km²)": 21.5,
+        "Permanent Water Bodies (km²)": 48.95,
+        "Herbaceous Wetland (km²)": 0.02
+      }
+    },
+    {
+      "id": "mp14",
+      "name": "Datia",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 31.3281,
+          "permanent": 5.1039
+        },
+        {
+          "year": "2001",
+          "seasonal": 27.675,
+          "permanent": 4.5684
+        },
+        {
+          "year": "2011",
+          "seasonal": 61.6446,
+          "permanent": 6.9633
+        },
+        {
+          "year": "2021",
+          "seasonal": 70.3836,
+          "permanent": 7.1532
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 187.77,
+        "Shrubland (km²)": 72.3,
+        "Grassland (km²)": 335.61,
+        "Cropland (km²)": 2348.8,
+        "Built-up Area (km²)": 49.12,
+        "Bare/Sparse Vegetation (km²)": 10.46,
+        "Permanent Water Bodies (km²)": 28.07,
+        "Herbaceous Wetland (km²)": 0.4
+      }
+    },
+    {
+      "id": "mp15",
+      "name": "Dewas",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 44.5914,
+          "permanent": 32.2614
+        },
+        {
+          "year": "2001",
+          "seasonal": 35.8821,
+          "permanent": 33.7221
+        },
+        {
+          "year": "2011",
+          "seasonal": 81.333,
+          "permanent": 62.4285
+        },
+        {
+          "year": "2021",
+          "seasonal": 110.1501,
+          "permanent": 63.6921
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 1342.18,
+        "Shrubland (km²)": 212.64,
+        "Grassland (km²)": 834.24,
+        "Cropland (km²)": 4438.82,
+        "Built-up Area (km²)": 108.01,
+        "Bare/Sparse Vegetation (km²)": 10.12,
+        "Permanent Water Bodies (km²)": 59.89,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp16",
+      "name": "Dhar",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 60.0156,
+          "permanent": 21.7314
+        },
+        {
+          "year": "2001",
+          "seasonal": 51.5277,
+          "permanent": 23.4909
+        },
+        {
+          "year": "2011",
+          "seasonal": 116.793,
+          "permanent": 42.1488
+        },
+        {
+          "year": "2021",
+          "seasonal": 146.52,
+          "permanent": 46.107
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 531.32,
+        "Shrubland (km²)": 42.63,
+        "Grassland (km²)": 1870.05,
+        "Cropland (km²)": 5433.87,
+        "Built-up Area (km²)": 141.71,
+        "Bare/Sparse Vegetation (km²)": 42.5,
+        "Permanent Water Bodies (km²)": 90.64,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp17",
+      "name": "Dindori",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 34.2567,
+          "permanent": 13.068
+        },
+        {
+          "year": "2001",
+          "seasonal": 36.3159,
+          "permanent": 12.3588
+        },
+        {
+          "year": "2011",
+          "seasonal": 61.6419,
+          "permanent": 16.7112
+        },
+        {
+          "year": "2021",
+          "seasonal": 61.6779,
+          "permanent": 19.3518
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 2098.75,
+        "Shrubland (km²)": 14.2,
+        "Grassland (km²)": 1543.86,
+        "Cropland (km²)": 2035.38,
+        "Built-up Area (km²)": 13.7,
+        "Bare/Sparse Vegetation (km²)": 9.89,
+        "Permanent Water Bodies (km²)": 33.33,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp18",
+      "name": "Guna",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 72.1332,
+          "permanent": 13.9212
+        },
+        {
+          "year": "2001",
+          "seasonal": 62.5932,
+          "permanent": 12.2346
+        },
+        {
+          "year": "2011",
+          "seasonal": 130.6593,
+          "permanent": 17.5149
+        },
+        {
+          "year": "2021",
+          "seasonal": 178.6914,
+          "permanent": 21.2598
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 433.26,
+        "Shrubland (km²)": 211.28,
+        "Grassland (km²)": 1240.65,
+        "Cropland (km²)": 4372.65,
+        "Built-up Area (km²)": 59.93,
+        "Bare/Sparse Vegetation (km²)": 22.41,
+        "Permanent Water Bodies (km²)": 41.13,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp19",
+      "name": "Gwalior",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 46.7208,
+          "permanent": 10.422
+        },
+        {
+          "year": "2001",
+          "seasonal": 40.7583,
+          "permanent": 9.9459
+        },
+        {
+          "year": "2011",
+          "seasonal": 100.2222,
+          "permanent": 14.1561
+        },
+        {
+          "year": "2021",
+          "seasonal": 120.3705,
+          "permanent": 15.651
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 320.43,
+        "Shrubland (km²)": 305.59,
+        "Grassland (km²)": 1288.92,
+        "Cropland (km²)": 2439.47,
+        "Built-up Area (km²)": 122.68,
+        "Bare/Sparse Vegetation (km²)": 20.67,
+        "Permanent Water Bodies (km²)": 44.06,
+        "Herbaceous Wetland (km²)": 0.42
+      }
+    },
+    {
+      "id": "mp20",
+      "name": "Harda",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 24.381,
+          "permanent": 21.8232
+        },
+        {
+          "year": "2001",
+          "seasonal": 22.401,
+          "permanent": 22.0509
+        },
+        {
+          "year": "2011",
+          "seasonal": 40.59,
+          "permanent": 37.0728
+        },
+        {
+          "year": "2021",
+          "seasonal": 51.5205,
+          "permanent": 38.3589
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 651.42,
+        "Shrubland (km²)": 67.38,
+        "Grassland (km²)": 398.88,
+        "Cropland (km²)": 2149.41,
+        "Built-up Area (km²)": 35.38,
+        "Bare/Sparse Vegetation (km²)": 5.17,
+        "Permanent Water Bodies (km²)": 28.33,
+        "Herbaceous Wetland (km²)": 0.01
+      }
+    },
+    {
+      "id": "mp21",
+      "name": "Hoshangabad",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 71.37,
+          "permanent": 64.089
+        },
+        {
+          "year": "2001",
+          "seasonal": 69.462,
+          "permanent": 65.0259
+        },
+        {
+          "year": "2011",
+          "seasonal": 131.7969,
+          "permanent": 105.408
+        },
+        {
+          "year": "2021",
+          "seasonal": 151.722,
+          "permanent": 110.034
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 2215.06,
+        "Shrubland (km²)": 61.41,
+        "Grassland (km²)": 606.93,
+        "Cropland (km²)": 3561.87,
+        "Built-up Area (km²)": 71.54,
+        "Bare/Sparse Vegetation (km²)": 53.19,
+        "Permanent Water Bodies (km²)": 134.0,
+        "Herbaceous Wetland (km²)": 0.01
+      }
+    },
+    {
+      "id": "mp22",
+      "name": "Indore",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 23.9454,
+          "permanent": 14.5449
+        },
+        {
+          "year": "2001",
+          "seasonal": 19.3419,
+          "permanent": 15.2046
+        },
+        {
+          "year": "2011",
+          "seasonal": 48.7845,
+          "permanent": 30.6909
+        },
+        {
+          "year": "2021",
+          "seasonal": 62.9109,
+          "permanent": 31.7259
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 516.98,
+        "Shrubland (km²)": 6.11,
+        "Grassland (km²)": 402.41,
+        "Cropland (km²)": 2707.62,
+        "Built-up Area (km²)": 234.43,
+        "Bare/Sparse Vegetation (km²)": 15.89,
+        "Permanent Water Bodies (km²)": 22.21,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp23",
+      "name": "Jabalpur",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 55.4418,
+          "permanent": 34.6059
+        },
+        {
+          "year": "2001",
+          "seasonal": 51.3657,
+          "permanent": 35.8344
+        },
+        {
+          "year": "2011",
+          "seasonal": 114.777,
+          "permanent": 59.8329
+        },
+        {
+          "year": "2021",
+          "seasonal": 131.4279,
+          "permanent": 64.9188
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 967.51,
+        "Shrubland (km²)": 58.11,
+        "Grassland (km²)": 734.55,
+        "Cropland (km²)": 3093.52,
+        "Built-up Area (km²)": 138.49,
+        "Bare/Sparse Vegetation (km²)": 18.15,
+        "Permanent Water Bodies (km²)": 83.48,
+        "Herbaceous Wetland (km²)": 0.09
+      }
+    },
+    {
+      "id": "mp24",
+      "name": "Jhabua",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 23.3613,
+          "permanent": 7.3161
+        },
+        {
+          "year": "2001",
+          "seasonal": 19.863,
+          "permanent": 7.749
+        },
+        {
+          "year": "2011",
+          "seasonal": 45.4248,
+          "permanent": 13.9176
+        },
+        {
+          "year": "2021",
+          "seasonal": 61.272,
+          "permanent": 15.651
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 204.23,
+        "Shrubland (km²)": 18.33,
+        "Grassland (km²)": 1096.44,
+        "Cropland (km²)": 2065.32,
+        "Built-up Area (km²)": 25.38,
+        "Bare/Sparse Vegetation (km²)": 16.43,
+        "Permanent Water Bodies (km²)": 19.56,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp25",
+      "name": "Katni",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 34.551,
+          "permanent": 7.8597
+        },
+        {
+          "year": "2001",
+          "seasonal": 31.401,
+          "permanent": 6.8436
+        },
+        {
+          "year": "2011",
+          "seasonal": 59.4585,
+          "permanent": 9.3879
+        },
+        {
+          "year": "2021",
+          "seasonal": 66.807,
+          "permanent": 10.3725
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 892.03,
+        "Shrubland (km²)": 238.75,
+        "Grassland (km²)": 1064.47,
+        "Cropland (km²)": 2707.88,
+        "Built-up Area (km²)": 70.85,
+        "Bare/Sparse Vegetation (km²)": 28.61,
+        "Permanent Water Bodies (km²)": 68.13,
+        "Herbaceous Wetland (km²)": 0.01
+      }
+    },
+    {
+      "id": "mp26",
+      "name": "Khandwa",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 65.178,
+          "permanent": 90.9594
+        },
+        {
+          "year": "2001",
+          "seasonal": 60.1056,
+          "permanent": 92.4849
+        },
+        {
+          "year": "2011",
+          "seasonal": 113.31,
+          "permanent": 148.806
+        },
+        {
+          "year": "2021",
+          "seasonal": 140.238,
+          "permanent": 152.028
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 1164.88,
+        "Shrubland (km²)": 138.18,
+        "Grassland (km²)": 1568.06,
+        "Cropland (km²)": 3894.76,
+        "Built-up Area (km²)": 82.44,
+        "Bare/Sparse Vegetation (km²)": 23.44,
+        "Permanent Water Bodies (km²)": 598.6,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp27",
+      "name": "Khargone",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 45.471,
+          "permanent": 25.1019
+        },
+        {
+          "year": "2001",
+          "seasonal": 42.4836,
+          "permanent": 26.2449
+        },
+        {
+          "year": "2011",
+          "seasonal": 88.0866,
+          "permanent": 63.8559
+        },
+        {
+          "year": "2021",
+          "seasonal": 116.1,
+          "permanent": 66.24
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 695.68,
+        "Shrubland (km²)": 51.7,
+        "Grassland (km²)": 2207.59,
+        "Cropland (km²)": 4834.99,
+        "Built-up Area (km²)": 102.54,
+        "Bare/Sparse Vegetation (km²)": 33.05,
+        "Permanent Water Bodies (km²)": 86.39,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp28",
+      "name": "Mandla",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 77.295,
+          "permanent": 32.7843
+        },
+        {
+          "year": "2001",
+          "seasonal": 80.5194,
+          "permanent": 31.428
+        },
+        {
+          "year": "2011",
+          "seasonal": 133.398,
+          "permanent": 45.4248
+        },
+        {
+          "year": "2021",
+          "seasonal": 139.698,
+          "permanent": 51.5205
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 3013.22,
+        "Shrubland (km²)": 58.66,
+        "Grassland (km²)": 1680.5,
+        "Cropland (km²)": 2549.93,
+        "Built-up Area (km²)": 37.05,
+        "Bare/Sparse Vegetation (km²)": 18.66,
+        "Permanent Water Bodies (km²)": 42.13,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp29",
+      "name": "Mandsaur",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 69.84,
+          "permanent": 121.257
+        },
+        {
+          "year": "2001",
+          "seasonal": 59.4222,
+          "permanent": 122.9904
+        },
+        {
+          "year": "2011",
+          "seasonal": 136.197,
+          "permanent": 204.093
+        },
+        {
+          "year": "2021",
+          "seasonal": 170.82,
+          "permanent": 206.82
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 295.37,
+        "Shrubland (km²)": 80.33,
+        "Grassland (km²)": 1525.6,
+        "Cropland (km²)": 2920.48,
+        "Built-up Area (km²)": 85.72,
+        "Bare/Sparse Vegetation (km²)": 47.0,
+        "Permanent Water Bodies (km²)": 47.51,
+        "Herbaceous Wetland (km²)": 2.95
+      }
+    },
+    {
+      "id": "mp30",
+      "name": "Morena",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 46.8198,
+          "permanent": 8.019
+        },
+        {
+          "year": "2001",
+          "seasonal": 44.0325,
+          "permanent": 7.8597
+        },
+        {
+          "year": "2011",
+          "seasonal": 105.74,
+          "permanent": 12.0654
+        },
+        {
+          "year": "2021",
+          "seasonal": 123.678,
+          "permanent": 12.6864
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 393.18,
+        "Shrubland (km²)": 442.27,
+        "Grassland (km²)": 901.81,
+        "Cropland (km²)": 3086.86,
+        "Built-up Area (km²)": 94.75,
+        "Bare/Sparse Vegetation (km²)": 30.63,
+        "Permanent Water Bodies (km²)": 23.32,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp31",
+      "name": "Narsinghpur",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 47.961,
+          "permanent": 12.3588
+        },
+        {
+          "year": "2001",
+          "seasonal": 46.8561,
+          "permanent": 11.2824
+        },
+        {
+          "year": "2011",
+          "seasonal": 96.66,
+          "permanent": 15.651
+        },
+        {
+          "year": "2021",
+          "seasonal": 109.845,
+          "permanent": 16.7112
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 1226.97,
+        "Shrubland (km²)": 69.67,
+        "Grassland (km²)": 699.7,
+        "Cropland (km²)": 3007.57,
+        "Built-up Area (km²)": 64.31,
+        "Bare/Sparse Vegetation (km²)": 23.09,
+        "Permanent Water Bodies (km²)": 32.75,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp32",
+      "name": "Neemuch",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 38.691,
+          "permanent": 64.9188
+        },
+        {
+          "year": "2001",
+          "seasonal": 33.4737,
+          "permanent": 66.24
+        },
+        {
+          "year": "2011",
+          "seasonal": 77.0511,
+          "permanent": 113.31
+        },
+        {
+          "year": "2021",
+          "seasonal": 95.814,
+          "permanent": 115.425
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 229.42,
+        "Shrubland (km²)": 324.09,
+        "Grassland (km²)": 1400.12,
+        "Cropland (km²)": 2034.47,
+        "Built-up Area (km²)": 76.11,
+        "Bare/Sparse Vegetation (km²)": 14.85,
+        "Permanent Water Bodies (km²)": 206.01,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp33",
+      "name": "Panna",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 72.828,
+          "permanent": 12.6864
+        },
+        {
+          "year": "2001",
+          "seasonal": 69.453,
+          "permanent": 10.9854
+        },
+        {
+          "year": "2011",
+          "seasonal": 130.014,
+          "permanent": 15.651
+        },
+        {
+          "year": "2021",
+          "seasonal": 148.98,
+          "permanent": 17.0604
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 904.4,
+        "Shrubland (km²)": 506.88,
+        "Grassland (km²)": 2231.07,
+        "Cropland (km²)": 3322.49,
+        "Built-up Area (km²)": 46.38,
+        "Bare/Sparse Vegetation (km²)": 22.24,
+        "Permanent Water Bodies (km²)": 51.47,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp34",
+      "name": "Raisen",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 84.726,
+          "permanent": 48.0165
+        },
+        {
+          "year": "2001",
+          "seasonal": 77.742,
+          "permanent": 49.3383
+        },
+        {
+          "year": "2011",
+          "seasonal": 178.65,
+          "permanent": 80.5194
+        },
+        {
+          "year": "2021",
+          "seasonal": 222.867,
+          "permanent": 86.418
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 1527.4,
+        "Shrubland (km²)": 126.24,
+        "Grassland (km²)": 813.06,
+        "Cropland (km²)": 5786.13,
+        "Built-up Area (km²)": 88.08,
+        "Bare/Sparse Vegetation (km²)": 16.48,
+        "Permanent Water Bodies (km²)": 102.73,
+        "Herbaceous Wetland (km²)": 0.04
+      }
+    },
+    {
+      "id": "mp35",
+      "name": "Rajgarh",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 57.06,
+          "permanent": 19.3518
+        },
+        {
+          "year": "2001",
+          "seasonal": 48.1065,
+          "permanent": 18.0279
+        },
+        {
+          "year": "2011",
+          "seasonal": 133.425,
+          "permanent": 30.6909
+        },
+        {
+          "year": "2021",
+          "seasonal": 182.25,
+          "permanent": 35.8344
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 396.96,
+        "Shrubland (km²)": 105.15,
+        "Grassland (km²)": 1238.25,
+        "Cropland (km²)": 4272.93,
+        "Built-up Area (km²)": 81.33,
+        "Bare/Sparse Vegetation (km²)": 22.18,
+        "Permanent Water Bodies (km²)": 77.26,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp36",
+      "name": "Ratlam",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 29.808,
+          "permanent": 8.019
+        },
+        {
+          "year": "2001",
+          "seasonal": 23.3613,
+          "permanent": 7.3161
+        },
+        {
+          "year": "2011",
+          "seasonal": 64.9188,
+          "permanent": 12.0654
+        },
+        {
+          "year": "2021",
+          "seasonal": 90.9594,
+          "permanent": 12.6864
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 226.78,
+        "Shrubland (km²)": 7.42,
+        "Grassland (km²)": 1157.08,
+        "Cropland (km²)": 3311.96,
+        "Built-up Area (km²)": 78.48,
+        "Bare/Sparse Vegetation (km²)": 29.43,
+        "Permanent Water Bodies (km²)": 42.17,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp37",
+      "name": "Rewa",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 96.66,
+          "permanent": 16.7112
+        },
+        {
+          "year": "2001",
+          "seasonal": 90.9594,
+          "permanent": 15.651
+        },
+        {
+          "year": "2011",
+          "seasonal": 175.77,
+          "permanent": 21.2598
+        },
+        {
+          "year": "2021",
+          "seasonal": 191.07,
+          "permanent": 23.9958
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 851.99,
+        "Shrubland (km²)": 152.88,
+        "Grassland (km²)": 777.6,
+        "Cropland (km²)": 4357.65,
+        "Built-up Area (km²)": 133.56,
+        "Bare/Sparse Vegetation (km²)": 52.33,
+        "Permanent Water Bodies (km²)": 56.46,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp38",
+      "name": "Sagar",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 108.684,
+          "permanent": 23.9958
+        },
+        {
+          "year": "2001",
+          "seasonal": 97.5915,
+          "permanent": 22.4649
+        },
+        {
+          "year": "2011",
+          "seasonal": 222.867,
+          "permanent": 30.6909
+        },
+        {
+          "year": "2021",
+          "seasonal": 273.81,
+          "permanent": 35.8344
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 1137.95,
+        "Shrubland (km²)": 718.59,
+        "Grassland (km²)": 2497.12,
+        "Cropland (km²)": 5649.03,
+        "Built-up Area (km²)": 150.39,
+        "Bare/Sparse Vegetation (km²)": 47.96,
+        "Permanent Water Bodies (km²)": 90.64,
+        "Herbaceous Wetland (km²)": 0.02
+      }
+    },
+    {
+      "id": "mp39",
+      "name": "Satna",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 90.9594,
+          "permanent": 12.0654
+        },
+        {
+          "year": "2001",
+          "seasonal": 84.726,
+          "permanent": 11.457
+        },
+        {
+          "year": "2011",
+          "seasonal": 148.98,
+          "permanent": 15.651
+        },
+        {
+          "year": "2021",
+          "seasonal": 173.1,
+          "permanent": 17.0604
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 1283.43,
+        "Shrubland (km²)": 302.26,
+        "Grassland (km²)": 1121.23,
+        "Cropland (km²)": 4690.61,
+        "Built-up Area (km²)": 132.88,
+        "Bare/Sparse Vegetation (km²)": 36.63,
+        "Permanent Water Bodies (km²)": 46.99,
+        "Herbaceous Wetland (km²)": 0.03
+      }
+    },
+    {
+      "id": "mp40",
+      "name": "Sehore",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 77.0511,
+          "permanent": 35.8344
+        },
+        {
+          "year": "2001",
+          "seasonal": 68.202,
+          "permanent": 37.0728
+        },
+        {
+          "year": "2011",
+          "seasonal": 157.32,
+          "permanent": 64.9188
+        },
+        {
+          "year": "2021",
+          "seasonal": 194.04,
+          "permanent": 69.462
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 1198.53,
+        "Shrubland (km²)": 65.6,
+        "Grassland (km²)": 454.12,
+        "Cropland (km²)": 4700.51,
+        "Built-up Area (km²)": 102.32,
+        "Bare/Sparse Vegetation (km²)": 11.02,
+        "Permanent Water Bodies (km²)": 67.24,
+        "Herbaceous Wetland (km²)": 0.01
+      }
+    },
+    {
+      "id": "mp41",
+      "name": "Seoni",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 113.31,
+          "permanent": 42.1488
+        },
+        {
+          "year": "2001",
+          "seasonal": 112.05,
+          "permanent": 39.7713
+        },
+        {
+          "year": "2011",
+          "seasonal": 237.42,
+          "permanent": 56.16
+        },
+        {
+          "year": "2021",
+          "seasonal": 269.91,
+          "permanent": 64.089
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 3125.49,
+        "Shrubland (km²)": 45.1,
+        "Grassland (km²)": 1585.83,
+        "Cropland (km²)": 3662.64,
+        "Built-up Area (km²)": 74.02,
+        "Bare/Sparse Vegetation (km²)": 44.5,
+        "Permanent Water Bodies (km²)": 172.63,
+        "Herbaceous Wetland (km²)": 0.01
+      }
+    },
+    {
+      "id": "mp42",
+      "name": "Shahdol",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 51.5205,
+          "permanent": 8.019
+        },
+        {
+          "year": "2001",
+          "seasonal": 50.184,
+          "permanent": 7.3161
+        },
+        {
+          "year": "2011",
+          "seasonal": 84.726,
+          "permanent": 9.3879
+        },
+        {
+          "year": "2021",
+          "seasonal": 81.333,
+          "permanent": 11.457
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 1515.35,
+        "Shrubland (km²)": 60.19,
+        "Grassland (km²)": 1228.69,
+        "Cropland (km²)": 3117.82,
+        "Built-up Area (km²)": 81.65,
+        "Bare/Sparse Vegetation (km²)": 42.33,
+        "Permanent Water Bodies (km²)": 31.9,
+        "Herbaceous Wetland (km²)": 0.01
+      }
+    },
+    {
+      "id": "mp43",
+      "name": "Shajapur",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 31.428,
+          "permanent": 5.7609
+        },
+        {
+          "year": "2001",
+          "seasonal": 23.9454,
+          "permanent": 5.1759
+        },
+        {
+          "year": "2011",
+          "seasonal": 72.1332,
+          "permanent": 6.8922
+        },
+        {
+          "year": "2021",
+          "seasonal": 105.7761,
+          "permanent": 8.019
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 195.93,
+        "Shrubland (km²)": 21.03,
+        "Grassland (km²)": 622.6,
+        "Cropland (km²)": 2748.9,
+        "Built-up Area (km²)": 59.4,
+        "Bare/Sparse Vegetation (km²)": 10.36,
+        "Permanent Water Bodies (km²)": 42.02,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp44",
+      "name": "Sheopur",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 42.1488,
+          "permanent": 6.8922
+        },
+        {
+          "year": "2001",
+          "seasonal": 39.7713,
+          "permanent": 6.3315
+        },
+        {
+          "year": "2011",
+          "seasonal": 77.0511,
+          "permanent": 9.3879
+        },
+        {
+          "year": "2021",
+          "seasonal": 90.9594,
+          "permanent": 9.9459
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 1289.47,
+        "Shrubland (km²)": 641.59,
+        "Grassland (km²)": 1787.05,
+        "Cropland (km²)": 2838.74,
+        "Built-up Area (km²)": 40.54,
+        "Bare/Sparse Vegetation (km²)": 16.27,
+        "Permanent Water Bodies (km²)": 18.06,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp45",
+      "name": "Shivpuri",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 136.197,
+          "permanent": 23.9958
+        },
+        {
+          "year": "2001",
+          "seasonal": 122.9904,
+          "permanent": 22.4649
+        },
+        {
+          "year": "2011",
+          "seasonal": 260.6751,
+          "permanent": 35.8344
+        },
+        {
+          "year": "2021",
+          "seasonal": 314.91,
+          "permanent": 42.1488
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 1251.49,
+        "Shrubland (km²)": 1311.9,
+        "Grassland (km²)": 1968.17,
+        "Cropland (km²)": 5236.4,
+        "Built-up Area (km²)": 105.71,
+        "Bare/Sparse Vegetation (km²)": 42.66,
+        "Permanent Water Bodies (km²)": 109.13,
+        "Herbaceous Wetland (km²)": 0.05
+      }
+    },
+    {
+      "id": "mp46",
+      "name": "Sidhi",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 90.9594,
+          "permanent": 23.9958
+        },
+        {
+          "year": "2001",
+          "seasonal": 87.1263,
+          "permanent": 25.1019
+        },
+        {
+          "year": "2011",
+          "seasonal": 169.5681,
+          "permanent": 56.772
+        },
+        {
+          "year": "2021",
+          "seasonal": 201.0987,
+          "permanent": 64.2006
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 1083.51,
+        "Shrubland (km²)": 218.42,
+        "Grassland (km²)": 855.97,
+        "Cropland (km²)": 2496.64,
+        "Built-up Area (km²)": 52.88,
+        "Bare/Sparse Vegetation (km²)": 56.63,
+        "Permanent Water Bodies (km²)": 109.11,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp47",
+      "name": "Singrauli",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 111.1833,
+          "permanent": 42.2181
+        },
+        {
+          "year": "2001",
+          "seasonal": 101.5578,
+          "permanent": 47.0925
+        },
+        {
+          "year": "2011",
+          "seasonal": 117.3762,
+          "permanent": 35.2107
+        },
+        {
+          "year": "2021",
+          "seasonal": 114.1812,
+          "permanent": 46.1673
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 1162.72,
+        "Shrubland (km²)": 139.06,
+        "Grassland (km²)": 651.13,
+        "Cropland (km²)": 3491.13,
+        "Built-up Area (km²)": 113.88,
+        "Bare/Sparse Vegetation (km²)": 56.45,
+        "Permanent Water Bodies (km²)": 111.96,
+        "Herbaceous Wetland (km²)": 0.01
+      }
+    },
+    {
+      "id": "mp48",
+      "name": "Tikamgarh",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 44.8461,
+          "permanent": 7.5501
+        },
+        {
+          "year": "2001",
+          "seasonal": 40.914,
+          "permanent": 6.1407
+        },
+        {
+          "year": "2011",
+          "seasonal": 77.2587,
+          "permanent": 3.8718
+        },
+        {
+          "year": "2021",
+          "seasonal": 83.0556,
+          "permanent": 5.1786
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 202.94,
+        "Shrubland (km²)": 149.33,
+        "Grassland (km²)": 907.38,
+        "Cropland (km²)": 2646.61,
+        "Built-up Area (km²)": 77.58,
+        "Bare/Sparse Vegetation (km²)": 19.33,
+        "Permanent Water Bodies (km²)": 51.04,
+        "Herbaceous Wetland (km²)": 0.01
+      }
+    },
+    {
+      "id": "mp49",
+      "name": "Ujjain",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 40.5702,
+          "permanent": 3.2265
+        },
+        {
+          "year": "2001",
+          "seasonal": 16.3026,
+          "permanent": 2.5938
+        },
+        {
+          "year": "2011",
+          "seasonal": 57.8943,
+          "permanent": 2.8611
+        },
+        {
+          "year": "2021",
+          "seasonal": 73.0404,
+          "permanent": 2.8017
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 218.41,
+        "Shrubland (km²)": 1.76,
+        "Grassland (km²)": 724.77,
+        "Cropland (km²)": 4975.31,
+        "Built-up Area (km²)": 128.27,
+        "Bare/Sparse Vegetation (km²)": 10.46,
+        "Permanent Water Bodies (km²)": 45.39,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp50",
+      "name": "Umaria",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 32.7843,
+          "permanent": 5.7609
+        },
+        {
+          "year": "2001",
+          "seasonal": 30.6909,
+          "permanent": 5.1759
+        },
+        {
+          "year": "2011",
+          "seasonal": 54.054,
+          "permanent": 7.3161
+        },
+        {
+          "year": "2021",
+          "seasonal": 56.772,
+          "permanent": 8.019
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 1030.76,
+        "Shrubland (km²)": 169.57,
+        "Grassland (km²)": 956.32,
+        "Cropland (km²)": 1823.16,
+        "Built-up Area (km²)": 35.29,
+        "Bare/Sparse Vegetation (km²)": 15.69,
+        "Permanent Water Bodies (km²)": 19.39,
+        "Herbaceous Wetland (km²)": 0.0
+      }
+    },
+    {
+      "id": "mp51",
+      "name": "Vidisha",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 95.814,
+          "permanent": 25.1019
+        },
+        {
+          "year": "2001",
+          "seasonal": 84.726,
+          "permanent": 23.9958
+        },
+        {
+          "year": "2011",
+          "seasonal": 204.093,
+          "permanent": 35.8344
+        },
+        {
+          "year": "2021",
+          "seasonal": 260.6751,
+          "permanent": 42.1488
+        }
+      ],
+      "lulc_data": {
+        "Tree Cover (km²)": 591.3,
+        "Shrubland (km²)": 223.47,
+        "Grassland (km²)": 971.86,
+        "Cropland (km²)": 5410.68,
+        "Built-up Area (km²)": 105.77,
+        "Bare/Sparse Vegetation (km²)": 20.31,
+        "Permanent Water Bodies (km²)": 81.39,
+        "Herbaceous Wetland (km²)": 0.01
+      }
+    }
+  ],
+  "Chhattisgarh": [
+    {
+      "id": "cg1",
+      "name": "Raipur",
+      "data": [
+        {
+          "year": "1991",
+          "seasonal": 20.1,
+          "permanent": 4.5
+        },
+        {
+          "year": "2001",
+          "seasonal": 18.3,
+          "permanent": 4.1
+        },
+        {
+          "year": "2011",
+          "seasonal": 33.9,
+          "permanent": 6.7
+        },
+        {
+          "year": "2021",
+          "seasonal": 50.2,
+          "permanent": 11.3
+        }
+      ],
+      "lulc_data": null
+    }
+  ]
+}
