@@ -121,14 +121,13 @@ const styles = StyleSheet.create({
     color: '#333',
   },
   cardsContainer: {
-    flexDirection: 'row',
-    flexWrap: 'wrap', // Allow cards to wrap to the next line
-    justifyContent: 'space-around', // Distribute cards evenly
+    flexDirection: 'column',
+    alignItems: 'center'
   },
   card: {
-    width: '48%', // Approx. half width for two columns, adjust as needed
+    width: '90%', // Approx. half width for two columns, adjust as needed
     backgroundColor: '#fff',
-    borderRadius: 10,
+    borderRadius: 12,
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.1,
