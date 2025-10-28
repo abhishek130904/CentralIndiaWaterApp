@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, ScrollView } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, ScrollView, Image } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient'; // Assuming you still want a gradient background
@@ -7,8 +7,8 @@ import { LinearGradient } from 'expo-linear-gradient'; // Assuming you still wan
 const ExploreWaterScreen = ({ navigation }) => {
   // Sample data for states - you'd likely fetch this from an API
   const states = [
-    { id: '1', name: 'Madhya Pradesh', districts: 55, mapImage: 'https://placehold.co/150x150/ff4d4d/ffffff?text=MP+Map' },
-    { id: '2', name: 'Chhattisgarh', districts: 33, mapImage: 'https://placehold.co/150x150/e06666/ffffff?text=CG+Map' },
+    { id: '1', name: 'Madhya Pradesh', districts: 55, mapImage: 'https://static.vecteezy.com/system/resources/previews/021/847/226/non_2x/madhya-pradesh-state-location-within-india-3d-map-vector.jpg' },
+    { id: '2', name: 'Chhattisgarh', districts: 33, mapImage: 'https://static.vecteezy.com/system/resources/previews/021/828/485/non_2x/chhattisgarh-state-location-within-india-3d-map-vector.jpg' },
 
   ];
 
@@ -19,7 +19,6 @@ const ExploreWaterScreen = ({ navigation }) => {
   return (
     <LinearGradient colors={['#F0F4F8', '#E0E8F0']} style={styles.gradientBackground}>
       <SafeAreaView style={styles.safeArea}>
-        {/* Top Header - Consistent with Home Screen */}
         <View style={styles.header}>
           <TouchableOpacity onPress={() => navigation.goBack()} style={styles.backButton}>
             <Ionicons name="chevron-back" size={28} color="#0F76B1" />
@@ -28,11 +27,10 @@ const ExploreWaterScreen = ({ navigation }) => {
             <Ionicons name="water-outline" size={26} color="#0F76B1" />
             <Text style={styles.logoText}>Central India Water Portal</Text>
           </View>
-          <View style={{ width: 44 }} /> {/* Spacer */}
+          <View style={{ width: 44 }} /> 
         </View>
 
         <ScrollView contentContainerStyle={styles.scrollContent}>
-          {/* Main Title Section */}
           <View style={styles.titleSection}>
             <View style={styles.titleLine} />
             <Text style={styles.screenTitle}>Explore Water Research by State</Text>
@@ -42,14 +40,7 @@ const ExploreWaterScreen = ({ navigation }) => {
           <View style={styles.cardsContainer}>
             {states.map((state) => (
               <View key={state.id} style={styles.card}>
-                {/* Placeholder for the India map with highlighted state */}
-                {/* You'll replace this with your actual map image component */}
-                <View style={styles.mapPlaceholder}>
-                  {/* You can use <Image source={{ uri: state.mapImage }} style={styles.mapImage} /> */}
-                  {/* Or an SVG component for actual interactive maps */}
-                  <Text style={styles.mapText}>Map for {state.name}</Text>
-                  {/* For now, a simple text placeholder */}
-                </View>
+                <Image source={{ uri: state.mapImage }} style={styles.mapImage} resizeMode="cover" />
 
                 <View style={styles.cardContent}>
                   <Text style={styles.stateName}>{state.name}</Text>
@@ -104,6 +95,13 @@ const styles = StyleSheet.create({
     paddingVertical: 20,
     paddingHorizontal: 15,
   },
+  mapImage: {
+  width: '100%',
+  height: 150,
+  borderTopLeftRadius: 10,
+  borderTopRightRadius: 10,
+},
+
   titleSection: {
     flexDirection: 'row',
     alignItems: 'center',

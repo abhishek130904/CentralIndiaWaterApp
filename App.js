@@ -8,6 +8,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import HomeScreen from './screens/homeScreen';
 import ExploreWaterScreen from './screens/ExploreWaterScreen'; // The new screen
 import StateScreen from './screens/StateScreen';
+import DistrictScreen from './screens/DistrictScreen';
 
 // 3. Create the "Stack" (the deck of cards)
 const Stack = createNativeStackNavigator();
@@ -34,6 +35,11 @@ export default function App() {
         <Stack.Screen
         name="StateScreen"
         component={StateScreen}
+        options = {{headerShown: false}}
+        />
+        <Stack.Screen
+        name="DistrictScreen"
+        component={DistrictScreen}
         options = {{headerShown: false}}
         />
       </Stack.Navigator>

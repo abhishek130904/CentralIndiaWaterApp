@@ -122,7 +122,9 @@ export default function StateScreen({ route, navigation }) {
                   <Text style={styles.districtInfo}>
                     {item.waterBodies} water bodies
                   </Text>
-                  <TouchableOpacity style={styles.detailsButton}>
+                  <TouchableOpacity style={styles.detailsButton}
+                  onPress={() => navigation.navigate('DistrictScreen', {district : item})}
+                  >
                     <Text style={styles.detailsText}>View Details</Text>
                   </TouchableOpacity>
                 </View>

@@ -3,6 +3,12 @@
     {
       "id": "mp1",
       "name": "Agar Malwa",
+      "overview": "• The district is having an area 3001.5531 sq.km and has following major rivers Kali Sindh River, Parbati River\n\n• The rural and urban population of the district are as follows 117329 and 453949 respectively.\n\n• The mean precipitation, Maximum and Minimum Temperature of the district is 88.5 mm/month and 44.24 °C & 5.293 °C\n\n• District climate: Semi-arid / Malwa plateau — very hot summers (42–45 °C), cool winters (8–12 °C), rainfall 700–900 mm\n\n• District has following major dams and reservoirs are Kundalia Dam\n\n• The district lies partly in the Yamuna sub basin (75%) and partly in the Narmada basin (25%).\n\n• District observed a drought in 2000-2001 and excessive rainfall and hail storms in years 1997-1998 and 1998-1999.\n\n• The major crops grown in the district are as follows: Soybean, Wheat, Gram, Mustard",
+      "image1" : "https://central-india-water-portal123.netlify.app/static/media/AGAR_MALWA.d2570a3b575c602f2355.png",
+      "image2" : "https://central-india-water-portal123.netlify.app/static/media/Agar%20Malwa%20(1).0deb9c685eb0928b1db6.png",
+      "image3" : "https://central-india-water-portal123.netlify.app/static/media/Picture1-am.e325f778fbaa9beb1523.png",
+      "image4" : "https://central-india-water-portal123.netlify.app/static/media/Picture2-am.1f74b8a2c98d7efb5ff1.png",
+      "image5" : "https://central-india-water-portal123.netlify.app/static/media/Agar%20Malwa%20(2).961066837f4d57c8b074.png",
       "data": [
         {
           "year": "1991",
@@ -39,6 +45,12 @@
     {
       "id": "mp2",
       "name": "Alirajpur",
+      "overview": "• The district is having an area 3618.5436 sq.km and has following major rivers Narmada basin\n\n• The rural and urban population of the district are as follows 671925 and 57074 respectively.\n\n• The mean precipitation, Maximum and Minimum Temperature of the district is 88.5 mm/month and 44.24 °C & 5.293 °C\n\n• District climate: Tropical monsoon / humid highlands — hot humid summers (35–40 °C), mild winters (12–16 °C), rainfall 1100–1400 mm\n\n• District has following major dams and reservoirs are Sardar Sarovar Project (beneficiary)\n\n• The district lies partly in the Yamuna sub basin (75%) and partly in the Narmada basin (25%).\n\n• District observed a drought in 2000-2001 and excessive rainfall and hail storms in years 1997-1998 and 1998-1999.\n\n• The major crops grown in the district are as follows: Paddy, Maize",
+  "image1": "https://central-india-water-portal123.netlify.app/static/media/ALIRAJPUR.f715051bd9fb1f82eaf2.jpg",
+  "image2": "https://central-india-water-portal123.netlify.app/static/media/Alirajpur%20(1).8efb75d1f608652ce0b2.jpg",
+  "image3": "https://central-india-water-portal123.netlify.app/static/media/Alirajpur%20(1).8efb75d1f608652ce0b2.jpg",
+  "image4": "https://central-india-water-portal123.netlify.app/static/media/Picture2-Ali.43cec1f2e4d86cd52792.png",
+  "image5": "https://central-india-water-portal123.netlify.app/static/media/Alirajpur%20(2).ca2870db7ea4dc178ff7.jpg",
       "data": [
         {
           "year": "1991",
@@ -147,6 +159,12 @@
     {
       "id": "mp5",
       "name": "Balaghat",
+      "overview": "• The district is having an area 10010.7756 sq.km and has following major rivers Wainganga, Bawanthadi\n\n• The rural and urban population of the district are as follows 1456882 and 244816 respectively.\n\n• The mean precipitation, Maximum and Minimum Temperature of the district is 88.5 mm/month and 44.24°C & 5.293°C\n\n• District climate: Tropical monsoon (high rainfall belt) — hot humid summers (≈34–38 °C), mild winters (≈10–14 °C), rainfall ≈1200–1600 mm.\n\n• District has following major dams and reservoirs: Dhuti Weir / Dam (Wainganga near Lamta)\n\n• The district lies partly in the Yamuna sub basin (75%) and partly in the Narmada basin (25%).\n\n• District observed a drought in 2000-2001 and excessive rainfall and hail storms in years 1997-1998 and 1998-1999.\n\n• The major crops grown in the district are as follows: Paddy, Soybean, Maize",
+  "image1": "https://central-india-water-portal123.netlify.app/static/media/BALAGHAT%20(2).9448a6157231f409b9f7.png",
+  "image2": "https://central-india-water-portal123.netlify.app/static/media/BALAGHAT%20(2).9448a6157231f409b9f7.png",
+  "image3": "https://central-india-water-portal123.netlify.app/static/media/Picture1_Bala.bd404be48694afc1fc94.png",
+  "image4": "https://central-india-water-portal123.netlify.app/static/media/Picture2_Bala.73ee931ecf34134fa092.png",
+  "image5": "https://central-india-water-portal123.netlify.app/static/media/Balaghat.13ec6eda6c72f4f5126a.png",
       "data": [
         {
           "year": "1991",
