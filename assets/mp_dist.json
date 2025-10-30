@@ -3,12 +3,12 @@
     {
       "id": "mp1",
       "name": "Agar Malwa",
-      "overview": "• The district is having an area 3001.5531 sq.km and has following major rivers Kali Sindh River, Parbati River\n\n• The rural and urban population of the district are as follows 117329 and 453949 respectively.\n\n• The mean precipitation, Maximum and Minimum Temperature of the district is 88.5 mm/month and 44.24 °C & 5.293 °C\n\n• District climate: Semi-arid / Malwa plateau — very hot summers (42–45 °C), cool winters (8–12 °C), rainfall 700–900 mm\n\n• District has following major dams and reservoirs are Kundalia Dam\n\n• The district lies partly in the Yamuna sub basin (75%) and partly in the Narmada basin (25%).\n\n• District observed a drought in 2000-2001 and excessive rainfall and hail storms in years 1997-1998 and 1998-1999.\n\n• The major crops grown in the district are as follows: Soybean, Wheat, Gram, Mustard",
-      "image1" : "https://central-india-water-portal123.netlify.app/static/media/AGAR_MALWA.d2570a3b575c602f2355.png",
-      "image2" : "https://central-india-water-portal123.netlify.app/static/media/Agar%20Malwa%20(1).0deb9c685eb0928b1db6.png",
-      "image3" : "https://central-india-water-portal123.netlify.app/static/media/Picture1-am.e325f778fbaa9beb1523.png",
-      "image4" : "https://central-india-water-portal123.netlify.app/static/media/Picture2-am.1f74b8a2c98d7efb5ff1.png",
-      "image5" : "https://central-india-water-portal123.netlify.app/static/media/Agar%20Malwa%20(2).961066837f4d57c8b074.png",
+        "overview": "• The district is having an area 3001.5531 sq.km and has following major rivers Kali Sindh River, Parbati River\n\n• The rural and urban population of the district are as follows 117329 and 453949 respectively.\n\n• The mean precipitation, Maximum and Minimum Temperature of the district is 88.5 mm/month and 44.24 °C & 5.293 °C\n\n• District climate: Semi-arid / Malwa plateau — very hot summers (42–45 °C), cool winters (8–12 °C), rainfall 700–900 mm\n\n• District has following major dams and reservoirs are Kundalia Dam\n\n• The district lies partly in the Yamuna sub basin (75%) and partly in the Narmada basin (25%).\n\n• District observed a drought in 2000-2001 and excessive rainfall and hail storms in years 1997-1998 and 1998-1999.\n\n• The major crops grown in the district are as follows: Soybean, Wheat, Gram, Mustard",
+        "image1" : "https://central-india-water-portal123.netlify.app/static/media/AGAR_MALWA.d2570a3b575c602f2355.png",
+        "image2" : "https://central-india-water-portal123.netlify.app/static/media/Agar%20Malwa%20(1).0deb9c685eb0928b1db6.png",
+        "image3" : "https://central-india-water-portal123.netlify.app/static/media/Picture1-am.e325f778fbaa9beb1523.png",
+        "image4" : "https://central-india-water-portal123.netlify.app/static/media/Picture2-am.1f74b8a2c98d7efb5ff1.png",
+        "image5" : "https://central-india-water-portal123.netlify.app/static/media/Agar%20Malwa%20(2).961066837f4d57c8b074.png",
       "data": [
         {
           "year": "1991",
@@ -453,6 +453,12 @@
     {
       "id": "mp13",
       "name": "Damoh",
+  "overview": "• The district is having an area 8032.0023 sq.km and has following major rivers **Sunar**, **Vyarma**\n\n• The rural and urban population of the district are as follows **1,013,668** and **250,551** respectively.\n\n• The mean precipitation, Maximum and Minimum Temperature of the district is **900–1100 mm** and **≈40–44 °C** & **≈8–12 °C**\n\n• District climate: **Subtropical / moderate monsoon — hot summers (≈40–44 °C), cool winters (≈8–12 °C), rainfall ≈900–1100 mm**\n\n• District has following major dams and reservoirs are **N/A**\n\n• The district lies partly in the **—** (**—%**) and **—** (**—%**).\n\n• District observed a **—**.\n\n• The major crops grown in the district are as follows: **Wheat**, **Paddy**",
+  "image1": "https://central-india-water-portal123.netlify.app/static/media/DAMOH1.e71a87851dce3cb0923b.png",
+  "image2": "https://central-india-water-portal123.netlify.app/static/media/Damoh2.26a5dd1e3bfbd7c6336d.png",
+  "image3": "https://central-india-water-portal123.netlify.app/static/media/dh1.1816f0ab03377bbdd976.png",
+  "image4": "https://central-india-water-portal123.netlify.app/static/media/dh2.5bd243815fc7bf11ad9c.png",
+  "image5": "https://central-india-water-portal123.netlify.app/static/media/Damoh3.c026c220e038b12fee34.png",
       "data": [
         {
           "year": "1991",
