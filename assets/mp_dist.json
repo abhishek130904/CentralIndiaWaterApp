@@ -87,7 +87,8 @@
     {
       "id": "mp3",
       "name": "Anuppur",
-      "data": [
+       "overview": "• The district is having an area of 4,138.37 sq.km and has the following major rivers: Narmada River (originates here) and Son River.\n\n• The rural and urban population of the district are 543,996 and 205,241 respectively.\n\n• The mean precipitation, maximum and minimum temperature of the district are 88.5 mm/month, 44.24 °C, and 5.29 °C respectively.\n\n• District climate: Tropical monsoon (eastern MP) — hot summers (≈38–42 °C), mild winters (≈10–14 °C), rainfall ≈1200–1400 mm.\n\n• The district lies partly in the Yamuna sub-basin (75%) and partly in the Narmada basin (25%).\n\n• District observed a drought in 2000–2001 and excessive rainfall and hailstorms in 1997–1999.\n\n• The major crops grown in the district are Paddy and Maize." ,
+       "data": [
         {
           "year": "1991",
           "seasonal": 16.2396,
@@ -123,7 +124,9 @@
     {
       "id": "mp4",
       "name": "Ashoknagar",
-      "data": [
+      "overview": "• The district has an area of 5,242.68 sq.km and includes the following major rivers: Sindh River and Betwa River.\n\n• The rural and urban population of the district are 691,387 and 153,684 respectively.\n\n• The mean precipitation, maximum and minimum temperature of the district are 88.5 mm/month, 44.24°C, and 5.29°C respectively.\n\n• District climate: Subtropical / semi-humid — hot summers (≈40–44 °C), cool winters (≈8–12 °C), rainfall ≈800–1000 mm.\n\n• The district lies partly in the Yamuna sub-basin (75%) and partly in the Narmada basin (25%).\n\n• The district observed a drought in 2000–2001 and excessive rainfall and hailstorms in 1997–1999.\n\n• The major crops grown in the district are Soybean and Mustard.",
+
+    "data": [
         {
           "year": "1991",
           "seasonal": 51.5277,
@@ -201,6 +204,7 @@
     {
       "id": "mp6",
       "name": "Barwani",
+      "overview":  "• The district has an area of 5,891.04 sq.km and includes the following major rivers: Narmada and Kundi.\n\n• The rural and urban population of the district are 1,181,812 and 204,069 respectively.\n\n• The mean precipitation, maximum and minimum temperature of the district are 88.5 mm/month, 44.24 °C, and 5.29 °C respectively.\n\n• District climate: Hot semi-arid (Nimar/Western plains) — very hot summers (42–46 °C), mild winters (10–14 °C), rainfall 600–850 mm.\n\n• Major dams and reservoirs: Sardar Sarovar Project (beneficiary).\n\n• The district lies partly in the Yamuna sub-basin (75%) and partly in the Narmada basin (25%).\n\n• District observed a drought in 2000–2001 and excessive rainfall and hailstorms in 1997–1999.\n\n• The major crops grown in the district are Sorghum and Paddy.",
       "data": [
         {
           "year": "1991",
@@ -237,6 +241,7 @@
     {
       "id": "mp7",
       "name": "Betul",
+      "overview": "• The district has an area of 10,892.51 sq.km and includes the following major rivers: Tapti and Wardha.\n\n• The rural and urban population of the district are 1,266,211 and 309,151 respectively.\n\n• The mean precipitation, maximum and minimum temperature data are not specified.\n\n• District climate: Subtropical to humid (southern-central) — hot summers (≈36–40 °C), cool winters (≈8–12 °C), rainfall ≈1100–1400 mm.\n\n• The district lies partly in the Tapti and Godavari basins.\n\n• District observed periodic droughts and heavy rainfall variations over the past decades.\n\n• The major crops grown in the district are Soybean, Paddy, Maize, Wheat, and Pulses.",
       "data": [
         {
           "year": "1991",
@@ -273,6 +278,8 @@
     {
       "id": "mp8",
       "name": "Bhind",
+      "overview": "• The district has an area of 5,007.16 sq.km and includes the following major rivers: Chambal and Sindh.\n\n• The rural and urban population of the district are 1,270,083 and 432,922 respectively.\n\n• The mean precipitation, maximum and minimum temperature data are not specified.\n\n• District climate: Semi-arid (northern plains) — very hot summers (≈43–46 °C), cool winters (≈6–10 °C), rainfall ≈600–800 mm.\n\n• The district lies partly in the Yamuna sub-basin (majorly drained by Chambal and Sindh rivers).\n\n• District has observed recurring drought conditions and irregular rainfall patterns over the years.\n\n• The major crops grown in the district are Wheat, Gram, Mustard, and Jowar.",
+
       "data": [
         {
           "year": "1991",
@@ -309,6 +316,8 @@
     {
       "id": "mp9",
       "name": "Bhopal",
+      "overview":"• The district has an area of 3,029.82 sq.km and includes the following major rivers: Betwa tributaries and Narmada.\n\n• The rural and urban population of the district are 454,010 and 1,917,051 respectively.\n\n• The mean precipitation, maximum and minimum temperature data are not specified.\n\n• District climate: Subtropical / moderate monsoon — hot summers (≈40–44 °C), cool winters (≈8–12 °C), rainfall ≈900–1100 mm.\n\n• Major dams and reservoirs: Kolar Dam, Kerwa Dam, and Bhadbhada Weir (Upper Lake).\n\n• The district lies partly in the Betwa and Narmada basins.\n\n• District has experienced periods of drought and excessive rainfall in different years.\n\n• The major crops grown in the district are Wheat, Paddy, Maize, Pulses, and Vegetables.",
+
       "data": [
         {
           "year": "1991",
@@ -345,6 +354,8 @@
     {
       "id": "mp10",
       "name": "Burhanpur",
+      "overview":"• The district has an area of 3,029.82 sq.km and includes the following major rivers: Betwa tributaries and Narmada.\n\n• The rural and urban population of the district are 454,010 and 1,917,051 respectively.\n\n• The mean precipitation, maximum and minimum temperature of the district are 900–1100 mm, ≈40–44 °C, and ≈8–12 °C respectively.\n\n• District climate: Subtropical / moderate monsoon — hot summers (≈40–44 °C), cool winters (≈8–12 °C), rainfall ≈900–1100 mm.\n\n• Major dams and reservoirs: Kolar Dam, Kerwa Dam, and Bhadbhada Weir (Upper Lake).\n\n• The district lies partly in the Narmada basin and partly in the Betwa basin.\n\n• District has experienced occasional droughts and years of excessive rainfall.\n\n• The major crops grown in the district are Wheat, Paddy, Maize, Pulses, and Vegetables.",
+
       "data": [
         {
           "year": "1991",
@@ -381,6 +392,8 @@
     {
       "id": "mp11",
       "name": "Chhatarpur",
+      "overview":  "• The district has an area of 9,628.28 sq.km and includes the following major rivers: Ken and Simiri.\n\n• The rural and urban population of the district are 399,016 and 1,363,359 respectively.\n\n• The mean precipitation, maximum and minimum temperature of the district are ≈700–900 mm, ≈42–45 °C, and ≈6–10 °C respectively.\n\n• District climate: Semi-arid / Bundelkhand fringe — hot summers (≈42–45 °C), cool winters (≈6–10 °C), rainfall ≈700–900 mm.\n\n• Major dams and reservoirs: Gangau Dam and Daudhan Dam.\n\n• The district lies mainly in the Ken River basin, forming part of the larger Yamuna sub-basin.\n\n• District has experienced drought conditions in several years due to irregular rainfall.\n\n• The major crops grown in the district are Pigeon pea and Gram.",
+
       "data": [
         {
           "year": "1991",
@@ -417,6 +430,8 @@
     {
       "id": "mp12",
       "name": "Chhindwara",
+      "overview": "• The district has an area of 10,672.63 sq.km and includes the major rivers Pench and Jam.\n\n• The rural and urban population of the district are 1,585,739 and 505,183 respectively.\n\n• The mean precipitation, maximum and minimum temperature of the district are 1200–1600 mm, ≈32–36 °C, and ≈7–12 °C respectively.\n\n• District climate: Humid tropical / high rainfall (southern plateau) — hot humid summers (≈32–36 °C), mild winters (≈7–12 °C), rainfall ≈1200–1600 mm.\n\n• The district lies mainly in the Wainganga River basin, forming part of the Godavari river system.\n\n• District observed a generally moist climate with heavy monsoon rainfall and good forest cover.\n\n• The major crops grown in the district are Paddy, Soybean, and Maize.",
+
       "data": [
         {
           "year": "1991",
@@ -453,6 +468,8 @@
     {
       "id": "mp13",
       "name": "Damoh",
+      "overview": "• The district has an area of 8,032.00 sq.km and includes the major rivers Sunar and Vyarma.\n\n• The rural and urban population of the district are 1,013,668 and 250,551 respectively.\n\n• The mean precipitation, maximum and minimum temperature of the district are 900–1100 mm, ≈40–44 °C, and ≈8–12 °C respectively.\n\n• District climate: Subtropical / moderate monsoon — hot summers (≈40–44 °C), cool winters (≈8–12 °C), rainfall ≈900–1100 mm.\n\n• The district lies mainly in the Ken River basin (a tributary of Yamuna), forming part of the Ganga river system.\n\n• District observed occasional droughts and moderate rainfall variability due to its semi-arid plateau setting.\n\n• The major crops grown in the district are Wheat and Paddy.",
+
       "data": [
         {
           "year": "1991",
@@ -489,6 +506,8 @@
     {
       "id": "mp14",
       "name": "Datia",
+      "overview":"• The district has an area of 3,381.81 sq.km and includes the major rivers Sindh and Pahuj.\n\n• The rural and urban population of the district are 604,772 and 181,982 respectively.\n\n• The mean precipitation, maximum and minimum temperature of the district are 700–900 mm, ≈42–45 °C, and ≈6–10 °C respectively.\n\n• District climate: Semi-arid (northern plains) — very hot summers (≈42–45 °C), cool winters (≈6–10 °C), rainfall ≈700–900 mm.\n\n• District has the major Pahuj Dam, which supports irrigation and water supply in the region.\n\n• The district lies mainly in the Sindh River sub-basin of the Yamuna, forming part of the Ganga basin.\n\n• District observed occasional droughts due to variable monsoon rainfall.\n\n• The major crops grown in the district are Wheat, Gram, Mustard, and Jowar.",
+
       "data": [
         {
           "year": "1991",
@@ -525,6 +544,8 @@
     {
       "id": "mp15",
       "name": "Dewas",
+       "overview": "• The district has an area of 7,632.70 sq.km and includes the major rivers Narmada and Kshipra.\n\n• The rural and urban population of the district are 1,111,956 and 451,759 respectively.\n\n• The mean precipitation, maximum and minimum temperature of the district are ≈700–900 mm, ≈42–45 °C, and ≈8–12 °C respectively.\n\n• District climate: Malwa plateau (semi-arid) — very hot summers (≈42–45 °C), cool winters (≈8–12 °C), rainfall ≈700–900 mm.\n\n• The district lies partly in the Narmada basin (southwestern part) and partly in the Chambal basin (northern part).\n\n• District observed occasional droughts due to irregular monsoon patterns.\n\n• The major crops grown in the district are Soybean, Wheat, and Gram.",
+
       "data": [
         {
           "year": "1991",
@@ -561,6 +582,8 @@
     {
       "id": "mp16",
       "name": "Dhar",
+      "overview": "• The district has an area of 8,866.53 sq.km and includes the major rivers Mahi and Narmada.\n\n• The rural and urban population of the district are 1,772,572 and 413,221 respectively.\n\n• The mean precipitation, maximum and minimum temperature of the district are ≈650–900 mm, ≈40–44 °C, and ≈8–12 °C respectively.\n\n• District climate: Semi-arid to sub-humid (western MP plateau) — hot summers (≈40–44 °C), cool winters (≈8–12 °C), rainfall ≈650–900 mm.\n\n• The district lies partly in the Narmada basin (southern part) and partly in the Mahi basin (western part).\n\n• District observed periodic droughts due to uneven monsoon rainfall.\n\n• The major crops grown in the district are Cotton, Soybean, and Maize.",
+
       "data": [
         {
           "year": "1991",
@@ -597,6 +620,8 @@
     {
       "id": "mp17",
       "name": "Dindori",
+      "overview": "• The district has an area of 6,269.93 sq.km and includes the major rivers that are tributaries of the Narmada, with parts extending toward the Godavari fringe.\n\n• The rural and urban population of the district are 672,206 and 32,318 respectively.\n\n• The mean precipitation, maximum and minimum temperature of the district are 1200–1500 mm, ≈34–38 °C, and ≈10–14 °C respectively.\n\n• District climate: Tropical monsoon (eastern hills) — hot humid summers (≈34–38 °C), mild winters (≈10–14 °C), rainfall ≈1200–1500 mm.\n\n• The district lies mainly in the Narmada basin (≈90%) with minor portions in the Godavari basin (≈10%).\n\n• District observed occasional floods during heavy monsoon years and mild droughts in weak monsoon years.\n\n• The major crops grown in the district are Paddy, Maize, and Minor Millets.",
+
       "data": [
         {
           "year": "1991",
@@ -633,6 +658,8 @@
     {
       "id": "mp18",
       "name": "Guna",
+      "overview": "• The district has an area of 6,269.93 sq.km and includes the major rivers that are tributaries of the Narmada, with parts extending toward the Godavari fringe.\n\n• The rural and urban population of the district are 672,206 and 32,318 respectively.\n\n• The mean precipitation, maximum and minimum temperature of the district are 1200–1500 mm, ≈34–38 °C, and ≈10–14 °C respectively.\n\n• District climate: Tropical monsoon (eastern hills) — hot humid summers (≈34–38 °C), mild winters (≈10–14 °C), rainfall ≈1200–1500 mm.\n\n• The district lies mainly in the Narmada basin (≈90%) with a small portion in the Godavari basin (≈10%).\n\n• District observed episodes of excessive rainfall and localized flooding during strong monsoon years.\n\n• The major crops grown in the district are Paddy and Maize.",
+
       "data": [
         {
           "year": "1991",
@@ -669,6 +696,7 @@
     {
       "id": "mp19",
       "name": "Gwalior",
+
       "data": [
         {
           "year": "1991",
@@ -705,6 +733,8 @@
     {
       "id": "mp20",
       "name": "Harda",
+      "overview": "• The district has an area of 3,621.28 sq.km and lies in the downstream zone of the Narmada River.\n\n• The major dam and irrigation project benefiting the district is the Indira Sagar Project.\n\n• The rural and urban population of the district are 451,101 and 119,364 respectively.\n\n• The mean precipitation, maximum and minimum temperature of the district are 900–1100 mm, ≈40–44 °C, and ≈8–12 °C respectively.\n\n• District climate: Narmada valley / subtropical — hot summers (≈40–44 °C), cool winters (≈8–12 °C), rainfall ≈900–1100 mm.\n\n• The district lies predominantly in the Narmada basin (≈95%) with minor undulating zones toward the Tapi basin (≈5%).\n\n• District observed occasional excessive rainfall and flooding in years of strong monsoon activity.\n\n• The major crops grown in the district are Rice, Wheat, and Soybean.",
+
       "data": [
         {
           "year": "1991",
@@ -777,6 +807,8 @@
     {
       "id": "mp22",
       "name": "Indore",
+      "overview": "• Indore district covers an area of about 3,917.88 sq.km and is located in the western part of Madhya Pradesh within the Malwa Plateau.\n\n• The Yashwant Sagar Dam, situated near Indore city, serves as the major surface water storage structure supporting irrigation and domestic supply.\n\n• The district lies partly in the Yamuna sub-basin (≈75%) and partly in the Narmada basin (≈25%).\n\n• The population includes around 2,427,709 urban residents and 848,988 rural residents.\n\n• District climate: Malwa plateau (semi-arid) — very hot summers (≈42–45 °C), cool winters (≈8–12 °C), rainfall ≈700–900 mm.\n\n• The mean annual precipitation is around 700–900 mm, with average maximum and minimum temperatures of ≈42–45 °C and ≈8–12 °C respectively.\n\n• The major crops grown in the district are Wheat, Soybean, and Gram, which depend heavily on groundwater irrigation.",
+
       "data": [
         {
           "year": "1991",
@@ -813,6 +845,8 @@
     {
       "id": "mp23",
       "name": "Jabalpur",
+       "overview": "• The district is having an area of 5,569.2594 sq.km and has the following major rivers: Narmada and Hiran.\n\n• Major dam/irrigation project in the district: Bargi (Rani Avanti Bai Sagar) Dam — a significant multipurpose project supporting irrigation, hydropower generation, and water supply.\n\n• The rural and urban population of the district are as follows: 1,023,255 and 1,440,034 respectively.\n\n• The mean annual precipitation is around 1,100–1,500 mm, with average maximum and minimum temperatures of ≈36–40 °C and ≈8–12 °C respectively.\n\n• District climate: Tropical humid / high rainfall (upper Vindhya) — hot humid summers (≈36–40 °C), mild winters (≈8–12 °C), rainfall ≈1,100–1,500 mm.\n\n• The district lies partly in the Narmada basin and minor tributary sub-basins.\n\n• The district observed a humid to sub-humid climatic trend due to consistent monsoon rainfall.\n\n• The major crops grown in the district are Paddy and Wheat.",
+
       "data": [
         {
           "year": "1991",
@@ -849,6 +883,8 @@
     {
       "id": "mp24",
       "name": "Jhabua",
+      "overview": "• The district is having an area of 3,757.8969 sq.km and has the following major rivers: Mahi and Anas.\n\n• The rural and urban population of the district are as follows: 933,065 and 91,983 respectively.\n\n• The mean annual precipitation is around 800–1,000 mm, with average maximum and minimum temperatures of ≈40–44 °C and ≈10–14 °C respectively.\n\n• District climate: Semi-arid to sub-humid (western hills) — hot summers (≈40–44 °C), mild winters (≈10–14 °C), rainfall ≈800–1,000 mm.\n\n• The district lies partly in the Mahi basin and the Narmada fringe region.\n\n• The district observed a semi-arid climatic trend with moderate monsoon variability.\n\n• The major crops grown in the district are Paddy and Maize.",
+
       "data": [
         {
           "year": "1991",
@@ -885,6 +921,8 @@
     {
       "id": "mp25",
       "name": "Katni",
+      "overview": "• The district is having an area of 5,565.2067 sq.km and has the following major rivers: Johila and Umrar.\n\n• The rural and urban population of the district are as follows: 1,028,499 and 263,543 respectively.\n\n• The mean annual precipitation is around 900–1,200 mm, with average maximum and minimum temperatures of ≈40–43 °C and ≈8–12 °C respectively.\n\n• District climate: Subtropical / moderate monsoon — hot summers (≈40–43 °C), cool winters (≈8–12 °C), rainfall ≈900–1,200 mm.\n\n• The district lies partly in the Son basin (eastern Madhya Pradesh region).\n\n• The district observed a humid monsoonal climatic trend with moderate seasonal variability.\n\n• The major crops grown in the district are Paddy and Wheat.",
+
       "data": [
         {
           "year": "1991",
@@ -921,6 +959,8 @@
     {
       "id": "mp26",
       "name": "Khandwa",
+       "overview": "• The district is having an area of 8,092.5993 sq.km and has the following major rivers: Narmada, Tapti, and Chhota Tawa.\n\n• The rural and urban population of the district are as follows: 1,050,625 and 259,436 respectively.\n\n• The mean annual precipitation is around 1,000–1,300 mm, with average maximum and minimum temperatures of ≈38–42 °C and ≈9–13 °C respectively.\n\n• Major dams in the district include the Indira Sagar Dam and Omkareshwar Dam, which are key irrigation and hydroelectric structures in the Narmada basin.\n\n• District climate: Tropical monsoon (Narmada belt) — hot summers (≈38–42 °C), mild winters (≈9–13 °C), rainfall ≈1,000–1,300 mm.\n\n• The district lies entirely within the Narmada basin, contributing significantly to its hydrological and agricultural systems.\n\n• The district observed periodic monsoon variability and moderate flood events in the lower Narmada catchment.\n\n• The major crops grown in the district are Paddy and Wheat.",
+
       "data": [
         {
           "year": "1991",
@@ -957,6 +997,8 @@
     {
       "id": "mp27",
       "name": "Khargone",
+      "overview": "• The district is having an area of 8,678.3202 sq.km and has the following major rivers: Narmada, Kunda, and Veda.\n\n• Major dams/projects in the district include the Maheshwar Dam (on the Narmada River) and the Omkareshwar Project (beneficiary).\n\n• The rural and urban population of the district are as follows: 1,574,190 and 298,856 respectively.\n\n• The mean annual precipitation is around 700–900 mm, with average maximum and minimum temperatures of ≈43–46 °C and ≈8–12 °C respectively.\n\n• District climate: Very hot semi-arid (Nimar plains) — characterized by scorching summers (≈43–46 °C), cool winters (≈8–12 °C), and moderate rainfall ≈700–900 mm.\n\n• The district lies entirely within the Narmada basin, forming an important part of the lower Narmada valley’s agricultural and hydrological landscape.\n\n• The district occasionally experiences droughts due to erratic monsoon rainfall and high evapotranspiration rates.\n\n• The major crops grown in the district are Cotton, along with Soybean and Wheat in irrigated zones.",
+
       "data": [
         {
           "year": "1991",
@@ -993,6 +1035,8 @@
     {
       "id": "mp28",
       "name": "Mandla",
+      "overview": "• The district is having an area of 8,175.3948 sq.km and has the following major rivers: Narmada and Banjar.\n\n• The rural and urban population of the district are as follows: 924,716 and 130,189 respectively.\n\n• The mean annual precipitation is around 1200–1600 mm, with average maximum and minimum temperatures of ≈34–38 °C and ≈10–14 °C respectively.\n\n• District climate: Tropical humid (eastern forested belt) — characterized by hot humid summers (≈34–38 °C), mild winters (≈10–14 °C), and high rainfall ≈1200–1600 mm.\n\n• The district lies primarily within the Narmada basin, with dense forest cover and rich biodiversity typical of the Satpura-Maikal range region.\n\n• The district occasionally experiences localized flooding due to heavy monsoon rains and river overflow.\n\n• The major crops grown in the district are Paddy and Maize.",
+
       "data": [
         {
           "year": "1991",
@@ -1029,6 +1073,7 @@
     {
       "id": "mp29",
       "name": "Mandsaur",
+      "overview": "• The district is having an area of 6,118.1352 sq.km and lies in the Chambal tributary zone.\n\n• The rural and urban population of the district are as follows: 1,062,807 and 277,604 respectively.\n\n• The mean annual precipitation is around 600–800 mm, with average maximum and minimum temperatures of ≈42–45 °C and ≈8–12 °C respectively.\n\n• District climate: Semi-arid (Malwa region) — characterized by hot summers (≈42–45 °C), cool winters (≈8–12 °C), and moderate rainfall ≈600–800 mm.\n\n• The district lies primarily within the Chambal basin, forming part of the upper Chambal catchment area.\n\n• The district occasionally experiences drought conditions due to uneven monsoon rainfall distribution.\n\n• Major dams and reservoirs in the district include the Gandhi Sagar Dam on the Chambal River.\n\n• The major crops grown in the district are Pulses, Soybean, and Wheat.",
       "data": [
         {
           "year": "1991",
@@ -1065,6 +1110,8 @@
     {
       "id": "mp30",
       "name": "Morena",
+      "overview": "• The district is having an area of 5,611.0113 sq.km and lies in the Chambal tributary region.\n\n• The rural and urban population of the district are as follows: 1,495,508 and 470,462 respectively.\n\n• The mean annual precipitation is around 600–800 mm, with average maximum and minimum temperatures of ≈44–46 °C and ≈6–10 °C respectively.\n\n• District climate: Semi-arid (north-west plains) — characterized by very hot summers (≈44–46 °C), cool winters (≈6–10 °C), and limited rainfall ≈600–800 mm.\n\n• The district lies primarily within the Chambal basin, with its terrain shaped by ravines and undulating plains formed by Chambal and its tributaries.\n\n• The district frequently faces drought-like conditions due to low and erratic monsoon rainfall.\n\n• The major crops grown in the district are Oilseeds, along with Wheat and Mustard in irrigated tracts.",
+
       "data": [
         {
           "year": "1991",
@@ -1101,6 +1148,8 @@
     {
       "id": "mp31",
       "name": "Narsinghpur",
+       "overview": "• The district is having an area of 5,590.05 sq.km and lies in the Narmada basin (Shakkar sub-basin).\n\n• The total population of the district is 888,314, out of which the Scheduled Caste population is 203,540.\n\n• The mean annual precipitation is around 1000–1300 mm, with average maximum and minimum temperatures of ≈38–42 °C and ≈8–12 °C respectively.\n\n• District climate: Subtropical / moderate monsoon — characterized by hot summers (≈38–42 °C), cool winters (≈8–12 °C), and rainfall ≈1000–1300 mm.\n\n• The district lies mainly in the Narmada valley plains, with fertile black cotton soils supporting intensive agriculture.\n\n• The district experiences moderate climatic variation with occasional monsoon flooding in low-lying areas.\n\n• The major crops grown in the district are Paddy and Wheat, supported by irrigation from the Narmada basin and tributaries.",
+
       "data": [
         {
           "year": "1991",
@@ -1137,6 +1186,8 @@
     {
       "id": "mp32",
       "name": "Neemuch",
+      "overview": "• The district has an area of 4,733.30 sq.km and lies in the Kali Sindh and Chambal catchment.\n\n• The total population of the district is 580,837, of which the rural population is 245,230.\n\n• The mean annual precipitation is approximately 650–850 mm, with average maximum and minimum temperatures of ≈42–45 °C and ≈6–10 °C respectively.\n\n• Major dams and reservoirs in the district include the Sukhanand Sagar (Kenpuriya) Dam, which supports irrigation and local water supply.\n\n• District climate: Semi-arid (Malwa plateau) — characterized by hot summers (≈42–45 °C), cool winters (≈6–10 °C), and rainfall ≈650–850 mm.\n\n• The district lies mainly in the northwestern uplands of the Malwa Plateau, draining into the Chambal and Kali Sindh river systems.\n\n• The district experiences dry climatic conditions with occasional droughts during weak monsoon years.\n\n• The major crops grown in the district are Cereals, Soybean, and Opium, reflecting the region’s mixed agriculture and cash crop economy.",
+
       "data": [
         {
           "year": "1991",
@@ -1173,6 +1224,8 @@
     {
       "id": "mp33",
       "name": "Panna",
+      "overview": "• The district has an area of 7,815.67 sq.km and lies in the Ken basin, comprising tributaries of the Ken River and forming part of the larger Ganga basin.\n\n• The total population of the district is 891,185, out of which the Scheduled Caste population is 125,335.\n\n• The mean annual precipitation ranges between 800–1000 mm, with average maximum and minimum temperatures of ≈42–45 °C and ≈6–10 °C respectively.\n\n• Major dams and reservoirs in the district include the Gangau Dam and the Daudhan Dam (Ken–Betwa Link Project), which are crucial for regional irrigation and inter-basin water transfer.\n\n• District climate: Semi-arid to sub-humid (Bundelkhand fringe) — characterized by hot summers (≈42–45 °C), cool winters (≈6–10 °C), and rainfall ≈800–1000 mm.\n\n• The district lies partly in the Bundelkhand uplands and partly in the Vindhyan plateau, contributing to mixed terrain and drainage patterns.\n\n• The district observed periodic droughts due to erratic monsoon conditions and groundwater depletion.\n\n• The major crops grown in the district are Paddy and Pulses, primarily dependent on monsoon rainfall and limited canal irrigation.",
+
       "data": [
         {
           "year": "1991",
@@ -1209,6 +1262,8 @@
     {
       "id": "mp34",
       "name": "Raisen",
+      "overview": "• The district has an area of 9,269.36 sq.km and lies within the Betwa and Narmada river basins, featuring a mixed terrain of plateau and river valleys.\n\n• The total population of the district is 1,028,172, out of which the Scheduled Caste population is 303,425.\n\n• The mean annual precipitation ranges between ≈900–1100 mm, with average maximum and minimum temperatures of ≈40–44 °C and ≈8–12 °C respectively.\n\n• The district is drained primarily by the Betwa and Narmada rivers, both of which play a crucial role in irrigation and surface water availability.\n\n• Major dams and reservoirs in the district include the Barna Dam and Halali Dam (Samrat Ashok Sagar), which support extensive irrigation and water supply networks.\n\n• District climate: Subtropical monsoon — characterized by hot summers (≈40–44 °C), cool winters (≈8–12 °C), and annual rainfall ≈900–1100 mm.\n\n• The district lies partly in the Malwa plateau and partly in the Vindhyan uplands, contributing to diverse topographical and hydrological features.\n\n• The district observed moderate water stress conditions in recent years due to fluctuating rainfall and rising agricultural demand.\n\n• The major crops grown in the district are Wheat, Soybean, Maize, and Gram.",
+      
       "data": [
         {
           "year": "1991",
@@ -1245,6 +1300,8 @@
     {
       "id": "mp35",
       "name": "Rajgarh",
+      "overview": "• The district has an area of 6,771.53 sq.km and lies within the Kali Sindh and Parbati river basins, forming part of the Malwa–Vindhya transitional zone.\n\n• The total population of the district is 1,269,357, of which the Scheduled Caste population is 276,457.\n\n• The mean annual precipitation ranges between ≈700–900 mm, with average maximum and minimum temperatures of ≈41–44 °C and ≈8–12 °C respectively.\n\n• The district is mainly drained by the Kali Sindh and Parbati rivers, which are tributaries of the Chambal river system, contributing to regional surface water availability.\n\n• Major dams and reservoirs in the district include the Mohanpura Dam (on the Newaj River) and the Kundalia Dam (a shared project), both of which serve irrigation and drinking water supply purposes.\n\n• District climate: Semi-arid / Malwa–Vindhya fringe — characterized by hot summers (≈41–44 °C), cool winters (≈8–12 °C), and moderate rainfall ≈700–900 mm.\n\n• The district lies at the interface of the Malwa plateau and Vindhyan uplands, influencing its agricultural and hydrological conditions.\n\n• The district observed moderate to high water stress in recent dry years due to fluctuating monsoon patterns and growing agricultural water demand.\n\n• The major crops grown in the district are primarily Cereals such as Wheat and Maize, along with some pulses and oilseeds in selected regions.",
+
       "data": [
         {
           "year": "1991",
@@ -1281,6 +1338,8 @@
     {
       "id": "mp36",
       "name": "Ratlam",
+      "overview": "• The district has an area of 5,315.82 sq.km and lies within the Chambal and Shipra river basins, forming part of the western Malwa plateau region.\n\n• The total population of the district is 1,020,038, of which the Scheduled Caste population is 435,031.\n\n• The mean annual precipitation ranges between ≈650–850 mm, with average maximum and minimum temperatures of ≈42–45 °C and ≈8–12 °C respectively.\n\n• The district is mainly drained by the Chambal and Shipra rivers, which support limited irrigation and groundwater recharge during the monsoon season.\n\n• Major dam and reservoir in the district: Dholawad (Sailana) Dam, which serves irrigation and water supply needs in the region.\n\n• District climate: Semi-arid (Malwa plateau) — characterized by very hot summers (≈42–45 °C), cool winters (≈8–12 °C), and moderate rainfall ≈650–850 mm.\n\n• The district observed occasional droughts and variable monsoon rainfall patterns affecting kharif crop yields.\n\n• The major crops grown in the district are Soybean as a dominant kharif crop, along with Wheat and Maize in the rabi season.",
+
       "data": [
         {
           "year": "1991",
@@ -1317,6 +1376,8 @@
     {
       "id": "mp37",
       "name": "Rewa",
+       "overview": "• The district is having an area of 4,903.43 sq.km and lies within the Tons and Bichiya river basins, forming part of the eastern highlands of Madhya Pradesh.\n\n• The total population of the district is 1,969,321, of which the Scheduled Tribe population is 395,785.\n\n• The mean annual precipitation ranges between ≈1100–1400 mm, with average maximum and minimum temperatures of ≈36–40 °C and ≈8–12 °C respectively.\n\n• The district is primarily drained by the Tons and Bichiya rivers, which are tributaries within the Ganga basin system.\n\n• Major dam and reservoir in the district: Govind Ballabh Pant Sagar (Rihand, shared), which supports irrigation, power generation, and water supply.\n\n• District climate: Tropical monsoon (eastern highlands) — hot humid summers (≈36–40 °C), mild winters (≈8–12 °C), and significant rainfall ≈1100–1400 mm.\n\n• The district occasionally experiences localized flooding during heavy monsoon years.\n\n• The major crops grown in the district are Paddy and Wheat, with agriculture forming the backbone of the local economy.",
+
       "data": [
         {
           "year": "1991",
@@ -1353,6 +1414,8 @@
     {
       "id": "mp38",
       "name": "Sagar",
+      "overview": "• The district is having an area of 11,250.01 sq.km and lies within the Betwa sub-basin and Dhasan basin, forming part of the central plateau of Madhya Pradesh.\n\n• The total population of the district is 1,669,662, of which the Scheduled Caste population is 708,796.\n\n• The mean annual precipitation ranges between ≈900–1100 mm, with average maximum and minimum temperatures of ≈40–44 °C and ≈8–12 °C respectively.\n\n• The district is drained primarily by the Betwa and Dhasan rivers, which support agricultural and domestic water needs.\n\n• Major dam and reservoir in the district: Rajghat Dam (Betwa River), serving irrigation and water storage purposes for the region.\n\n• District climate: Subtropical / moderate monsoon — hot summers (≈40–44 °C), cool winters (≈8–12 °C), and rainfall ≈900–1100 mm.\n\n• The district occasionally experiences moderate drought conditions during years of weak monsoon.\n\n• The major crops grown in the district are Soybean, which forms the dominant kharif crop, along with wheat and pulses in the rabi season.",
+
       "data": [
         {
           "year": "1991",
@@ -1389,6 +1452,8 @@
     {
       "id": "mp39",
       "name": "Satna",
+      "overview": "• The district is having an area of 5,844.26 sq.km and lies within the Tons/Son river zone, forming part of the Bansagar command area in eastern Madhya Pradesh.\n\n• The total population of the district is 1,754,517, of which the Scheduled Caste population is 474,418.\n\n• The mean annual precipitation ranges between ≈1000–1300 mm, with average maximum and minimum temperatures of ≈38–42 °C and ≈8–12 °C respectively.\n\n• The district is drained primarily by the Tons/Son river system, which supports agriculture and water supply throughout the region.\n\n• Major water resource infrastructure includes the Bansagar command area, which provides irrigation to vast agricultural lands across the district.\n\n• District climate: Tropical monsoon (eastern MP) — hot summers (≈38–42 °C), mild winters (≈8–12 °C), and rainfall ≈1000–1300 mm.\n\n• The district occasionally experiences mild droughts or water stress during years of below-average monsoon.\n\n• The major crops grown in the district are Paddy, Wheat, and Pulses, forming the backbone of its agrarian economy.",
+
       "data": [
         {
           "year": "1991",
@@ -1425,6 +1490,8 @@
     {
       "id": "mp40",
       "name": "Sehore",
+      "overview": "• The district is having an area of 7,146.66 sq.km and lies within the Narmada and Parbati river basins in central Madhya Pradesh.\n\n• The total population of the district is 1,062,870, of which the Scheduled Caste population is 248,462.\n\n• The mean annual precipitation ranges between ≈900–1100 mm, with average maximum and minimum temperatures of ≈40–44 °C and ≈8–12 °C respectively.\n\n• The district is drained primarily by the Narmada and Parbati rivers, which play a vital role in supporting irrigation and agriculture.\n\n• Major water resource structures include the Kolar Dam and Kolar Reservoirs, which form a key part of the region’s irrigation and drinking water supply system.\n\n• District climate: Subtropical monsoon — hot summers (≈40–44 °C), cool winters (≈8–12 °C), and rainfall ≈900–1100 mm.\n\n• The district occasionally experiences mild water stress or delayed monsoon conditions.\n\n• The major crop grown in the district is Soybean, forming a crucial part of its agricultural output.",
+
       "data": [
         {
           "year": "1991",
@@ -1461,6 +1528,8 @@
     {
       "id": "mp41",
       "name": "Seoni",
+       "overview": "• The district is having an area of 9,505.93 sq.km and lies within the Wainganga (Godavari basin) and Pench basin in southern Madhya Pradesh.\n\n• The total population of the district is 1,215,241, of which the Scheduled Caste population is 163,890.\n\n• The mean annual precipitation ranges between ≈1200–1500 mm, with average maximum and minimum temperatures of ≈34–38 °C and ≈8–12 °C respectively.\n\n• The district is primarily drained by the Wainganga and Pench rivers, both of which are significant tributaries contributing to the Godavari river system.\n\n• Major water resource structures include the Bheemgarh (Sanjay Sarovar) Dam on the Wainganga River, which supports irrigation, power generation, and water supply.\n\n• District climate: Tropical humid (southern plateaux) — hot humid summers (≈34–38 °C), mild winters (≈8–12 °C), and rainfall ≈1200–1500 mm.\n\n• The district occasionally observes localized flooding during intense monsoon spells.\n\n• The major crops grown in the district are Paddy, Wheat, and Maize, reflecting its diverse agricultural profile.",
+
       "data": [
         {
           "year": "1991",
@@ -1497,6 +1566,8 @@
     {
       "id": "mp42",
       "name": "Shahdol",
+       "overview": "• The district is having an area of 6,215.02 sq.km and lies within the Sone basin (Ganga system) and Banas basin in eastern Madhya Pradesh.\n\n• The total population of the district is 846,463, of which the Scheduled Caste population is 219,600.\n\n• The mean annual precipitation ranges between ≈1200–1500 mm, with average maximum and minimum temperatures of ≈34–38 °C and ≈8–12 °C respectively.\n\n• The district is drained primarily by the Sone and Banas rivers, both of which play a key role in regional irrigation and water availability.\n\n• Major water resource projects include the Bansagar Dam on the Sone River, which supports irrigation, hydropower generation, and domestic use.\n\n• District climate: Tropical monsoon / high rainfall (east MP) — hot humid summers (≈34–38 °C), mild winters (≈8–12 °C), and rainfall ≈1200–1500 mm.\n\n• The district occasionally observes localized flooding during the peak monsoon months.\n\n• The major crops grown in the district are Paddy, Wheat, Maize, and Pulses, forming a mixed cropping pattern influenced by rainfall and soil moisture availability.",
+
       "data": [
         {
           "year": "1991",
@@ -1533,6 +1604,8 @@
     {
       "id": "mp43",
       "name": "Shajapur",
+       "overview": "• The district is having an area of 3,789.15 sq.km and lies in the Kali Sindh and Parbati river basins within the Malwa plateau region of Madhya Pradesh.\n\n• The total population of the district is 1,219,133, of which the Scheduled Caste population is 293,548.\n\n• The mean annual precipitation ranges between ≈700–900 mm, with average maximum and minimum temperatures of ≈42–45 °C and ≈8–12 °C respectively.\n\n• The district is primarily drained by the Kali Sindh and Parbati rivers, which are part of the Chambal river system and support limited irrigation potential.\n\n• District climate: Semi-arid (Malwa) — characterized by very hot summers (≈42–45 °C), cool winters (≈8–12 °C), and moderate rainfall (≈700–900 mm).\n\n• The district occasionally experiences water scarcity and variable monsoon patterns affecting agricultural productivity.\n\n• The major crop grown in the district is Wheat, supported mainly through groundwater and seasonal rainfall irrigation.",
+
       "data": [
         {
           "year": "1991",
@@ -1569,6 +1642,8 @@
     {
       "id": "mp44",
       "name": "Sheopur",
+       "overview": "• The district is having an area of 7,371.42 sq.km and lies along the Kali Sindh–Chambal fringe in northern Madhya Pradesh.\n\n• The total population of the district is 580,509, of which the Scheduled Caste population is 107,352.\n\n• The mean annual precipitation ranges from ≈800–1000 mm, with average maximum and minimum temperatures of ≈40–44 °C and ≈8–12 °C respectively.\n\n• The district is primarily drained by the Kali Sindh and Chambal rivers, which support limited irrigation facilities in parts of the region.\n\n• District climate: Subtropical monsoon — characterized by hot summers (≈40–44 °C), cool winters (≈8–12 °C), and moderate rainfall (≈800–1000 mm).\n\n• Major water structure: Kuno Dam constructed across the Kuno River provides irrigation support to agricultural areas.\n\n• The district occasionally experiences variable monsoon and moderate water scarcity conditions.\n\n• The major crops grown in the district include Oilseeds, cultivated predominantly under rainfed conditions.",
+
       "data": [
         {
           "year": "1991",
@@ -1605,6 +1680,7 @@
     {
       "id": "mp45",
       "name": "Shivpuri",
+       "overview": "• The district is having an area of 11,033.25 sq.km and lies in the Kali Sindh and Parbati basins of northern Madhya Pradesh.\n\n• The total population of the district is 1,430,627, out of which the Scheduled Caste population is 295,423.\n\n• The mean annual precipitation ranges from ≈900–1100 mm, with maximum temperatures of ≈40–44 °C and minimum temperatures of ≈8–12 °C.\n\n• District climate: Subtropical / moderate monsoon — characterized by hot summers (≈40–44 °C), cool winters (≈8–12 °C), and moderate rainfall (≈900–1100 mm).\n\n• The district is mainly drained by the rivers Kali Sindh and Parbati, which support agriculture and water storage structures.\n\n• Major dam and reservoir: Madikheda (Mohini Sagar) Dam constructed on the Sindh River serves irrigation and water supply purposes.\n\n• The district occasionally experiences uneven monsoon distribution and localized water stress during dry years.\n\n• The major crops cultivated in the district are Soybean and Mustard, forming the backbone of its kharif and rabi agriculture cycles.",
       "data": [
         {
           "year": "1991",
@@ -1641,6 +1717,8 @@
     {
       "id": "mp46",
       "name": "Sidhi",
+      "overview": "• The district is having an area of 5,249.64 sq.km and is traversed by the major rivers Son and Gopad.\n\n• The rural and urban population of the district are 1,033,912 and 93,121 respectively.\n\n• The mean annual precipitation ranges from ≈1100–1400 mm, with maximum temperatures of ≈36–40 °C and minimum temperatures of ≈8–12 °C.\n\n• District climate: Tropical monsoon (eastern uplands) — characterized by hot humid summers, mild winters, and significant seasonal rainfall.\n\n• The district lies partly in the Yamuna sub-basin (75%) and partly in the Narmada basin (25%).\n\n• The district has witnessed a drought during 2000–2001 and excessive rainfall with hailstorms in 1997–1998 and 1998–1999.\n\n• The major crops cultivated in the district are Paddy and Wheat, forming the key agricultural outputs of the region.",
+
       "data": [
         {
           "year": "1991",
@@ -1677,6 +1755,8 @@
     {
       "id": "mp47",
       "name": "Singrauli",
+       "overview": "• The district is having an area of 6,341.51 sq.km and lies in the floodplain of the Son and Tons rivers.\n\n• The total population of the district is 951,487, out of which the Scheduled Caste population is 226,786.\n\n• The mean annual precipitation ranges from ≈1000–1300 mm, with maximum temperatures of ≈38–42 °C and minimum temperatures of ≈8–12 °C.\n\n• District climate: Tropical monsoon / plateau — characterized by hot summers (≈38–42 °C), mild winters (≈8–12 °C), and rainfall ≈1000–1300 mm.\n\n• The district is primarily drained by the rivers Son and Tons.\n\n• Major dams and reservoirs include Govind Ballabh Pant Sagar (Rihand, shared), supporting irrigation and hydropower needs.\n\n• The district occasionally experiences variations in monsoon intensity and localized flooding during heavy rainfall years.\n\n• The major crops cultivated in the district are Paddy, Wheat, Maize, and Oilseeds, forming the mainstay of local agriculture.",
+
       "data": [
         {
           "year": "1991",
@@ -1713,6 +1793,8 @@
     {
       "id": "mp48",
       "name": "Tikamgarh",
+       "overview": "The district has an area of 6,341.51 sq.km and lies in the floodplain of the Son and Tons rivers. The total population is 951,487, including 226,786 Scheduled Caste individuals. It receives ≈1000–1300 mm of rainfall annually, with maximum and minimum temperatures of ≈38–42 °C and ≈8–12 °C respectively. The climate is tropical monsoon/plateau type with hot summers, mild winters, and moderate rainfall. The district is mainly drained by the rivers Son and Tons. The district observed a —. Major crops grown include Paddy, Wheat, Maize, and Oilseeds.",
+
       "data": [
         {
           "year": "1991",
@@ -1749,6 +1831,8 @@
     {
       "id": "mp49",
       "name": "Ujjain",
+      "overview": "The district is having an area of 6,675.03 sq.km and lies in the Malwa Plateau region. It has a total population of 1,207,651, including 779,213 Scheduled Caste residents. The mean annual rainfall is ≈700–900 mm, with maximum and minimum temperatures of ≈42–45 °C and ≈8–12 °C respectively. The climate is semi-arid (Malwa Plateau) with very hot summers, cool winters, and moderate rainfall. The district is mainly drained by the rivers Kshipra (Shipra) and Gambhir. Major dams include the Gambhir Dam (Badnagar). The district observed a —. The chief crops cultivated are Soybean, Wheat, Maize, Gram, and Vegetables.",
+
       "data": [
         {
           "year": "1991",
@@ -1785,6 +1869,8 @@
     {
       "id": "mp50",
       "name": "Umaria",
+      "overview": "The district is having an area of 5,004.58 sq.km and lies in the Narmada/Son fringe. It has a total population of 534,214, including 110,544 Scheduled Caste residents. The mean annual rainfall is ≈1100–1400 mm, with maximum and minimum temperatures of ≈34–38 °C and ≈8–12 °C respectively. The climate is tropical monsoon (forest fringe) with hot humid summers, mild winters, and abundant rainfall. The district is mainly drained by the rivers Narmada and Son (fringe areas). The district observed a —. The major crops cultivated are Paddy and Wheat.",
+
       "data": [
         {
           "year": "1991",
@@ -1821,6 +1907,8 @@
     {
       "id": "mp51",
       "name": "Vidisha",
+      "overview": "The district is having an area of 8,035.13 sq.km and lies mainly in the Betwa/Halali basin, part of the Ganga basin. It has a total population of 1,119,257, including 339,618 Scheduled Caste residents. The mean annual rainfall is ≈800–1000 mm, with maximum and minimum temperatures of ≈40–44 °C and ≈8–12 °C respectively. The climate is subtropical, semi-arid to sub-humid, characterized by hot summers, cool winters, and moderate rainfall. The district is primarily drained by the rivers Betwa and Halali. Major water structures include the Halali Dam (Samrat Ashok Sagar, shared). The district observed a —. The main crop grown in the district is Soybean.",
+
       "data": [
         {
           "year": "1991",
@@ -1859,6 +1947,8 @@
     {
       "id": "cg1",
       "name": "Raipur",
+      "overview": "The district is having an area of 3,132.71 sq.km and lies mainly in the Kharun River and Mahanadi tributaries basin. It has a rural population of 2,580,583 and an urban population of 1,483,289. The mean annual precipitation is ≈1385 mm, with maximum and minimum temperatures of ≈44 °C and ≈12–13 °C respectively. The climate is of hot capital plains type, featuring extreme summers, mild winters, and substantial monsoon rainfall. The district is primarily drained by the Kharun River and tributaries of the Mahanadi. The district observed a —. The major crops grown in the district include Paddy, Maize, Oilseeds, and Vegetables.",
+
       "data": [
         {
           "year": "1991",
